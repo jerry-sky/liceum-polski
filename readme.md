@@ -5,3 +5,10 @@
 ---
 
 Niniejsze repozytorium zawiera notatki, które zostały sporządzone w ramach lekcji języka polskiego w [Akademickim Liceum Ogólnokształcącym Politechniki Wrocławskiej](https://liceum.pwr.edu.pl/).
+
+---
+
+## Repetytorium
+
+1. [Starożytność + Style Wypowiedzi](repetytorium/starożytność.md)
+2. [Średniowiecze](repetytorium/średniowiecze.md)
