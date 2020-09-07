@@ -16,3 +16,4 @@ Niniejsze repozytorium zawiera notatki, które zostały sporządzone w ramach le
 4. [Barok, Oświecenie, Preromantyzm](repetytorium/barok-oświecenie-preromantyzm.md)
 5. [Romantyzm](repetytorium/romantyzm.md)
 6. [Pozytywizm](repetytorium/pozytywizm.md)
+7. [Młoda Polska](repetytorium/młoda-polska.md)
