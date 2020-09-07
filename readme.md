@@ -13,3 +13,4 @@ Niniejsze repozytorium zawiera notatki, które zostały sporządzone w ramach le
 1. [Starożytność + Style Wypowiedzi](repetytorium/starożytność.md)
 2. [Średniowiecze](repetytorium/średniowiecze.md)
 3. [Renesans, Kochanowski](repetytorium/renesans-kochanowski.md)
+4. [Barok, Oświecenie, Preromantyzm](repetytorium/barok-oświecenie-preromantyzm.md)
