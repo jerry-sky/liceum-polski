@@ -1,6 +1,6 @@
 # Renesans, Kochanowski
 
-*Repetytorium nr 3 — „FRAPUJĄCY JĘZYK POLSKI” (Sprawdzian nr 5)*
+*Repetytorium nr 3. — „FRAPUJĄCY JĘZYK POLSKI” (Sprawdzian nr 5.)*
 
 ---
 

@@ -1,6 +1,6 @@
 # Starożytność + Style Wypowiedzi
 
-*Repetytorium nr 1 — „UKOCHANY JĘZYK POLSKI” (Sprawdzian nr 2)*
+*Repetytorium nr 1. — „UKOCHANY JĘZYK POLSKI” (Sprawdzian nr 2.)*
 
 ---
 

@@ -1,6 +1,6 @@
 # Romantyzm
 
-*Repetytorium nr 5 — „ROMANTYCZNY JĘZYK POLSKI” (Sprawdzian nr 7)*
+*Repetytorium nr 5. — „ROMANTYCZNY JĘZYK POLSKI” (Sprawdzian nr 7.)*
 
 ---
 

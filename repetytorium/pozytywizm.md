@@ -1,6 +1,6 @@
 # Pozytywizm
 
-*Repetytorium nr 6 (Sprawdzian nr 9)*
+*Repetytorium nr 6. (Sprawdzian nr 9.)*
 
 ---
 

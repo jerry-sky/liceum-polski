@@ -1,6 +1,6 @@
 # Młoda Polska
 
-*Repetytorium nr 7 (Sprawdzian nr 10)*
+*Repetytorium nr 7. (Sprawdzian nr 10.)*
 
 ---
 

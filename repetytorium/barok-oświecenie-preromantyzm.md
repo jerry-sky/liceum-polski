@@ -1,6 +1,6 @@
 # Barok, Oświecenie, Preromantyzm
 
-*Repetytorium nr 4 — „EMOCJONUJĄCY JĘZYK POLSKI” (Sprawdzian nr 6)*
+*Repetytorium nr 4. — „EMOCJONUJĄCY JĘZYK POLSKI” (Sprawdzian nr 6.)*
 
 ---
 

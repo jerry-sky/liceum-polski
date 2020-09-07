@@ -1,6 +1,6 @@
 # Średniowiecze
 
-*Repetytorium nr 2 — „FASCYNUJĄCY JĘZYK POLSKI” (Sprawdzian nr 3)*
+*Repetytorium nr 2. — „FASCYNUJĄCY JĘZYK POLSKI” (Sprawdzian nr 3.)*
 
 ---
 
