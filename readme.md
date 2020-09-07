@@ -15,3 +15,4 @@ Niniejsze repozytorium zawiera notatki, które zostały sporządzone w ramach le
 3. [Renesans, Kochanowski](repetytorium/renesans-kochanowski.md)
 4. [Barok, Oświecenie, Preromantyzm](repetytorium/barok-oświecenie-preromantyzm.md)
 5. [Romantyzm](repetytorium/romantyzm.md)
+6. [Pozytywizm](repetytorium/pozytywizm.md)
