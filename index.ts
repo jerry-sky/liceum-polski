@@ -28,7 +28,12 @@ const path = process.argv[2];
 const content = fs.readFileSync(path);
 
 // render
-const result = md.render(content.toString());
+const result = md.render(content.toString())
+    .replace(
+        // replace every `.md` link file with `.html` link
+        /(?<=\<a\s.{0,}href\=.+)(\.md)(?=(.{0}|(#.+))".{0,}\>)/gmis,
+        '.html'
+    );
 
 // add styles
 console.log('<link rel=stylesheet href="styles.css"/>');
