@@ -1,0 +1,78 @@
+/* Colours */
+
+body {
+    font-family: Merriweather, serif;
+    margin: 25px;
+    background: #333333;
+    color: #aaaaaa;
+    font-size: 1.2em;
+}
+
+a {
+    text-decoration-line: none;
+    color: #aaaad0;
+    text-shadow: #888888 0 0 2px;
+}
+
+hr {
+    border-color: #888888;
+}
+
+@media screen and (prefers-color-scheme: light) {
+    body {
+        background: #efefe5;
+        color: #444444;
+        font-size: 1.2em;
+    }
+
+    a {
+        text-decoration-line: none;
+        color: #4444ee;
+        text-shadow: #333333 0 0 .02em;
+    }
+
+    hr {
+        border-color: #999999;
+    }
+}
+
+/* Spacing */
+
+* {
+    margin-bottom: 8px;
+}
+
+hr {
+    margin-top: 34px;
+}
+
+p {
+    margin-top: 5px;
+}
+
+h2 {
+    margin-top: 35px;
+    padding-top: 20px;
+}
+
+h3 {
+    margin-top: 14px;
+    padding-top: 20px;
+}
+
+h4 {
+    margin-top: 1px;
+    padding-top: 20px;
+}
+
+li {
+    margin-top: 13px;
+}
+
+li > ul > li {
+    margin-top: 8px;
+}
+
+li > ul > li > ul > li {
+    margin-top: 5px;
+}
