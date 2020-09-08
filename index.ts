@@ -1,7 +1,8 @@
-
+#!./node_modules/.bin/ts-node
 import MarkdownIt from 'markdown-it';
 import MarkdownItAnchor from 'markdown-it-anchor';
 import fs from 'fs';
+import { exit } from 'process';
 /**
  * There is no TS definition declaration for this package so `require` has to suffice.
  */
@@ -19,8 +20,12 @@ const md = new MarkdownIt()
     // .use(MarkdownItKaTeX, { throwOnError: true });
     .use(new MarkdownItMathJax());
 
+// read the path to the file
+if (process.argv.length < 3) { exit(1); }
+const path = process.argv[2];
+
 // read the raw file
-const content = fs.readFileSync('repetytorium/średniowiecze.md');
+const content = fs.readFileSync(path);
 
 // render
 const result = md.render(content.toString());
