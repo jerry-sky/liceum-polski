@@ -35,8 +35,10 @@ const result = md.render(content.toString())
         '.html'
     );
 
+
+console.log('<meta charset="utf-8">');
 // add styles
-console.log('<link rel=stylesheet href="styles.css"/>');
+console.log('<link rel=stylesheet href="/styles.css"/>');
 
 // put the rendered content
 console.log(result);
