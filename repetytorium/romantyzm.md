@@ -7,125 +7,125 @@
 **Spis treści**
 
 - [1. Appendix](#1-appendix)
-  - [1.1. epistemologia](#11-epistemologia)
-  - [1.2. ludowość](#12-ludowość)
-  - [1.3. orientalizm](#13-orientalizm)
-  - [1.4. transcendencja](#14-transcendencja)
-  - [1.5. mała ojczyzna](#15-mała-ojczyzna)
-  - [1.6. ekspiacja](#16-ekspiacja)
+    - [1.1. epistemologia](#11-epistemologia)
+    - [1.2. ludowość](#12-ludowość)
+    - [1.3. orientalizm](#13-orientalizm)
+    - [1.4. transcendencja](#14-transcendencja)
+    - [1.5. mała ojczyzna](#15-mała-ojczyzna)
+    - [1.6. ekspiacja](#16-ekspiacja)
 - [2. *„Ballady i romanse”* 1822 — *„Romantyczność”*](#2-ballady-i-romanse-1822--romantyczność)
-  - [2.1. Romantyczna koncepcja](#21-romantyczna-koncepcja)
-    - [2.1.1. **Natury**](#211-natury)
-    - [2.1.2. **Miłości**](#212-miłości)
-    - [2.1.3. **Bohatera**](#213-bohatera)
-  - [2.2. Prawdy ludowe](#22-prawdy-ludowe)
-  - [2.3. Ludowość](#23-ludowość)
-  - [2.4. Ballada jako gatunek:](#24-ballada-jako-gatunek)
-  - [2.5. Bohaterowie](#25-bohaterowie)
-  - [2.6. Polemika klasycystów z romantykami](#26-polemika-klasycystów-z-romantykami)
+    - [2.1. Romantyczna koncepcja](#21-romantyczna-koncepcja)
+        - [2.1.1. **Natury**](#211-natury)
+        - [2.1.2. **Miłości**](#212-miłości)
+        - [2.1.3. **Bohatera**](#213-bohatera)
+    - [2.2. Prawdy ludowe](#22-prawdy-ludowe)
+    - [2.3. Ludowość](#23-ludowość)
+    - [2.4. Ballada jako gatunek:](#24-ballada-jako-gatunek)
+    - [2.5. Bohaterowie](#25-bohaterowie)
+    - [2.6. Polemika klasycystów z romantykami](#26-polemika-klasycystów-z-romantykami)
 - [3. *„Świteź”*](#3-świteź)
-  - [3.1. Opowieść kobiety wyłowionej z jeziora](#31-opowieść-kobiety-wyłowionej-z-jeziora)
-  - [3.2. Podwójna perspektywa czasowa](#32-podwójna-perspektywa-czasowa)
+    - [3.1. Opowieść kobiety wyłowionej z jeziora](#31-opowieść-kobiety-wyłowionej-z-jeziora)
+    - [3.2. Podwójna perspektywa czasowa](#32-podwójna-perspektywa-czasowa)
 - [4. „Świtezianka”](#4-świtezianka)
 - [5. *„Sonety Krymskie”*](#5-sonety-krymskie)
-  - [5.1. *„Stepy akermańskie”*](#51-stepy-akermańskie)
-  - [5.2. *„Burza”*](#52-burza)
-  - [5.3. *„Droga nad przepaścią w Czufut-Kale”*](#53-droga-nad-przepaścią-w-czufut-kale)
-  - [5.4. *„Pielgrzym”*](#54-pielgrzym)
+    - [5.1. *„Stepy akermańskie”*](#51-stepy-akermańskie)
+    - [5.2. *„Burza”*](#52-burza)
+    - [5.3. *„Droga nad przepaścią w Czufut-Kale”*](#53-droga-nad-przepaścią-w-czufut-kale)
+    - [5.4. *„Pielgrzym”*](#54-pielgrzym)
 - [6. *„Dziadów”* cz. IV](#6-dziadów-cz-iv)
-  - [6.1. Wewnętrzna kompozycja — podział na 3 części](#61-wewnętrzna-kompozycja--podział-na-3-części)
-  - [6.2. Gustaw](#62-gustaw)
-  - [6.3. Rola ksiąg zbójeckich](#63-rola-ksiąg-zbójeckich)
-  - [6.4. Romantyczna koncepcja miłości](#64-romantyczna-koncepcja-miłości)
-  - [6.5. Kontynuacja polemiki romantyków i klasycystów, zapoczątkowanej w balladzie *„Romantyczność”*](#65-kontynuacja-polemiki-romantyków-i-klasycystów-zapoczątkowanej-w-balladzie-romantyczność)
-  - [6.6. Prawdy moralne](#66-prawdy-moralne)
+    - [6.1. Wewnętrzna kompozycja — podział na 3 części](#61-wewnętrzna-kompozycja--podział-na-3-części)
+    - [6.2. Gustaw](#62-gustaw)
+    - [6.3. Rola ksiąg zbójeckich](#63-rola-ksiąg-zbójeckich)
+    - [6.4. Romantyczna koncepcja miłości](#64-romantyczna-koncepcja-miłości)
+    - [6.5. Kontynuacja polemiki romantyków i klasycystów, zapoczątkowanej w balladzie *„Romantyczność”*](#65-kontynuacja-polemiki-romantyków-i-klasycystów-zapoczątkowanej-w-balladzie-romantyczność)
+    - [6.6. Prawdy moralne](#66-prawdy-moralne)
 - [7. *„Dziadów”* cz. III](#7-dziadów-cz-iii)
-  - [7.1. Rola Dedykacji](#71-rola-dedykacji)
-  - [7.2. Geneza utworu, rola Przedmowy (mowy odautorskiej)](#72-geneza-utworu-rola-przedmowy-mowy-odautorskiej)
-  - [7.3. Prolog (symbolika przemiany Gustawa w Konrada)](#73-prolog-symbolika-przemiany-gustawa-w-konrada)
-    - [7.3.1. Bohaterowie:](#731-bohaterowie)
-    - [7.3.2. Psychomachia](#732-psychomachia)
-    - [7.3.3. Romantyczna koncepcja snu:](#733-romantyczna-koncepcja-snu)
-    - [7.3.4. Więzień:](#734-więzień)
-    - [7.3.5. *Cytaty*](#735-cytaty)
-    - [7.3.6. Metamorfoza](#736-metamorfoza)
-  - [7.4. Udziecinnienie ofiar (Alina Witkowska) [ Scena I więzienna ]](#74-udziecinnienie-ofiar-alina-witkowska-scena-i-więzienna)
-    - [7.4.1. Postacie z opowieści Sobolewskiego jako obraz udziecinnienia ofiar](#741-postacie-z-opowieści-sobolewskiego-jako-obraz-udziecinnienia-ofiar)
-  - [7.5. Obraz tyrana (kreacja Senatora)	[ Scena VI *Sen Senatora* ]](#75-obraz-tyrana-kreacja-senatorascena-vi-sen-senatora)
-    - [7.5.1. Obraz Senatora (S)](#751-obraz-senatora-s)
-    - [7.5.2. Dominanta kompozycyjna w scenie](#752-dominanta-kompozycyjna-w-scenie)
-    - [7.5.3. Groteska](#753-groteska)
-    - [7.5.4. Władza despotyczna](#754-władza-despotyczna)
-  - [7.6. Obraz matki [ Scena VIII *Pan Senator* ]](#76-obraz-matki-scena-viii-pan-senator)
-    - [7.6.1. Pani Rollison](#761-pani-rollison)
-  - [7.7. Ocena społeczeństwa [ Scena VII, VIII *Salon Warszawski*, *Bal u Senatora* ]](#77-ocena-społeczeństwa-scena-vii-viii-salon-warszawski-bal-u-senatora)
-    - [7.7.1. Kontrast między towarzystwami (Scena VII)](#771-kontrast-między-towarzystwami-scena-vii)
-    - [7.7.2. Kontrast (Scena VIII)](#772-kontrast-scena-viii)
-  - [7.8. **W**ielkie monologi Konradowskie (**t**ypowe dla dramatu romantycznego)](#78-wielkie-monologi-konradowskie-typowe-dla-dramatu-romantycznego)
-    - [7.8.1. Pieśń Zemsty](#781-pieśń-zemsty)
-    - [7.8.2. Mała improwizacja (ma być proroctwem)](#782-mała-improwizacja-ma-być-proroctwem)
-    - [7.8.3. WIELKA IMPROWIZACJA](#783-wielka-improwizacja)
-  - [7.9. Mesjanistyczne proroctwo [ Scena V *Widzenie ks. Piotra* ]](#79-mesjanistyczne-proroctwo-scena-v-widzenie-ks-piotra)
-    - [7.9.1. Polska Chrystusem Narodów (analogia męki Pańskiej z męką narodu)](#791-polska-chrystusem-narodów-analogia-męki-pańskiej-z-męką-narodu)
-  - [7.10. Widzenie Ewy](#710-widzenie-ewy)
-  - [7.11. Ustęp](#711-ustęp)
-    - [7.11.1. Obraz Syberii [ Droga do Rosji ]](#7111-obraz-syberii-droga-do-rosji)
-    - [7.11.2. Obraz Petersburga [ Przedmieścia stolicy, Petersburg ]](#7112-obraz-petersburga-przedmieścia-stolicy-petersburg)
-    - [7.11.3. Obraz władców [ Pomnik Piotra Wielkiego ]](#7113-obraz-władców-pomnik-piotra-wielkiego)
-  - [7.12. *„Do przyjaciół Moskali”*](#712-do-przyjaciół-moskali)
+    - [7.1. Rola Dedykacji](#71-rola-dedykacji)
+    - [7.2. Geneza utworu, rola Przedmowy (mowy odautorskiej)](#72-geneza-utworu-rola-przedmowy-mowy-odautorskiej)
+    - [7.3. Prolog (symbolika przemiany Gustawa w Konrada)](#73-prolog-symbolika-przemiany-gustawa-w-konrada)
+        - [7.3.1. Bohaterowie:](#731-bohaterowie)
+        - [7.3.2. Psychomachia](#732-psychomachia)
+        - [7.3.3. Romantyczna koncepcja snu:](#733-romantyczna-koncepcja-snu)
+        - [7.3.4. Więzień:](#734-więzień)
+        - [7.3.5. *Cytaty*](#735-cytaty)
+        - [7.3.6. Metamorfoza](#736-metamorfoza)
+    - [7.4. Udziecinnienie ofiar (Alina Witkowska) [ Scena I więzienna ]](#74-udziecinnienie-ofiar-alina-witkowska--scena-i-więzienna-)
+        - [7.4.1. Postacie z opowieści Sobolewskiego jako obraz udziecinnienia ofiar](#741-postacie-z-opowieści-sobolewskiego-jako-obraz-udziecinnienia-ofiar)
+    - [7.5. Obraz tyrana (kreacja Senatora)	[ Scena VI *Sen Senatora* ]](#75-obraz-tyrana-kreacja-senatora-scena-vi-sen-senatora-)
+        - [7.5.1. Obraz Senatora (S)](#751-obraz-senatora-s)
+        - [7.5.2. Dominanta kompozycyjna w scenie](#752-dominanta-kompozycyjna-w-scenie)
+        - [7.5.3. Groteska](#753-groteska)
+        - [7.5.4. Władza despotyczna](#754-władza-despotyczna)
+    - [7.6. Obraz matki [ Scena VIII *Pan Senator* ]](#76-obraz-matki--scena-viii-pan-senator-)
+        - [7.6.1. Pani Rollison](#761-pani-rollison)
+    - [7.7. Ocena społeczeństwa [ Scena VII, VIII *Salon Warszawski*, *Bal u Senatora* ]](#77-ocena-społeczeństwa--scena-vii-viii-salon-warszawski-bal-u-senatora-)
+        - [7.7.1. Kontrast między towarzystwami (Scena VII)](#771-kontrast-między-towarzystwami-scena-vii)
+        - [7.7.2. Kontrast (Scena VIII)](#772-kontrast-scena-viii)
+    - [7.8. **W**ielkie monologi Konradowskie (**t**ypowe dla dramatu romantycznego)](#78-wielkie-monologi-konradowskie-typowe-dla-dramatu-romantycznego)
+        - [7.8.1. Pieśń Zemsty](#781-pieśń-zemsty)
+        - [7.8.2. Mała improwizacja (ma być proroctwem)](#782-mała-improwizacja-ma-być-proroctwem)
+        - [7.8.3. WIELKA IMPROWIZACJA](#783-wielka-improwizacja)
+    - [7.9. Mesjanistyczne proroctwo [ Scena V *Widzenie ks. Piotra* ]](#79-mesjanistyczne-proroctwo--scena-v-widzenie-ks-piotra-)
+        - [7.9.1. Polska Chrystusem Narodów (analogia męki Pańskiej z męką narodu)](#791-polska-chrystusem-narodów-analogia-męki-pańskiej-z-męką-narodu)
+    - [7.10. Widzenie Ewy](#710-widzenie-ewy)
+    - [7.11. Ustęp](#711-ustęp)
+        - [7.11.1. Obraz Syberii [ Droga do Rosji ]](#7111-obraz-syberii--droga-do-rosji-)
+        - [7.11.2. Obraz Petersburga [ Przedmieścia stolicy, Petersburg ]](#7112-obraz-petersburga--przedmieścia-stolicy-petersburg-)
+        - [7.11.3. Obraz władców [ Pomnik Piotra Wielkiego ]](#7113-obraz-władców--pomnik-piotra-wielkiego-)
+    - [7.12. *„Do przyjaciół Moskali”*](#712-do-przyjaciół-moskali)
 - [8. *„Pan Tadeusz”*](#8-pan-tadeusz)
-  - [8.1. *Epilog - mała ojczyzna*](#81-epilog---mała-ojczyzna)
-  - [8.2. Dlaczego Micki napisał epos?](#82-dlaczego-micki-napisał-epos)
-  - [8.3. Inwokacja](#83-inwokacja)
-  - [8.4. Epilog](#84-epilog)
-  - [8.5. Idealizacja](#85-idealizacja)
-    - [8.5.1. Dwór w Soplicowie](#851-dwór-w-soplicowie)
-  - [8.6. Soplicowo jako centrum polszczyzny](#86-soplicowo-jako-centrum-polszczyzny)
-  - [8.7. Spacery](#87-spacery)
-  - [8.8. Grzybobranie jako element tradycji, rytuał](#88-grzybobranie-jako-element-tradycji-rytuał)
-    - [8.8.1. Urodzajna kraina](#881-urodzajna-kraina)
-    - [8.8.2. Silny związek człowieka z naturą](#882-silny-związek-człowieka-z-naturą)
-  - [8.9. Tabakiera](#89-tabakiera)
-  - [8.10. Arcyserwis](#810-arcyserwis)
-  - [8.11. Uczta](#811-uczta)
-  - [8.12. Natura](#812-natura)
-  - [8.13. Perypetie miłosne](#813-perypetie-miłosne)
-    - [8.13.1. Romans Tadeusza i Telimeny](#8131-romans-tadeusza-i-telimeny)
-    - [8.13.2. Miłość Tadeusza i Zosi](#8132-miłość-tadeusza-i-zosi)
-  - [8.14. Losy Jacka Soplicy](#814-losy-jacka-soplicy)
-  - [8.15. Legenda Napoleona? — rezygnacja z troski o prawdopodobieństwo](#815-legenda-napoleona--rezygnacja-z-troski-o-prawdopodobieństwo)
-  - [8.16. Sposób przedstawienia historii](#816-sposób-przedstawienia-historii)
-  - [8.17. Obraz społeczeństwa - szlachta (idealizacja)](#817-obraz-społeczeństwa---szlachta-idealizacja)
-  - [8.18. Wątek narodowowyzwoleńczy](#818-wątek-narodowowyzwoleńczy)
+    - [8.1. *Epilog - mała ojczyzna*](#81-epilog---mała-ojczyzna)
+    - [8.2. Dlaczego Micki napisał epos?](#82-dlaczego-micki-napisał-epos)
+    - [8.3. Inwokacja](#83-inwokacja)
+    - [8.4. Epilog](#84-epilog)
+    - [8.5. Idealizacja](#85-idealizacja)
+        - [8.5.1. Dwór w Soplicowie](#851-dwór-w-soplicowie)
+    - [8.6. Soplicowo jako centrum polszczyzny](#86-soplicowo-jako-centrum-polszczyzny)
+    - [8.7. Spacery](#87-spacery)
+    - [8.8. Grzybobranie jako element tradycji, rytuał](#88-grzybobranie-jako-element-tradycji-rytuał)
+        - [8.8.1. Urodzajna kraina](#881-urodzajna-kraina)
+        - [8.8.2. Silny związek człowieka z naturą](#882-silny-związek-człowieka-z-naturą)
+    - [8.9. Tabakiera](#89-tabakiera)
+    - [8.10. Arcyserwis](#810-arcyserwis)
+    - [8.11. Uczta](#811-uczta)
+    - [8.12. Natura](#812-natura)
+    - [8.13. Perypetie miłosne](#813-perypetie-miłosne)
+        - [8.13.1. Romans Tadeusza i Telimeny](#8131-romans-tadeusza-i-telimeny)
+        - [8.13.2. Miłość Tadeusza i Zosi](#8132-miłość-tadeusza-i-zosi)
+    - [8.14. Losy Jacka Soplicy](#814-losy-jacka-soplicy)
+    - [8.15. Legenda Napoleona? — rezygnacja z troski o prawdopodobieństwo](#815-legenda-napoleona--rezygnacja-z-troski-o-prawdopodobieństwo)
+    - [8.16. Sposób przedstawienia historii](#816-sposób-przedstawienia-historii)
+    - [8.17. Obraz społeczeństwa - szlachta (idealizacja)](#817-obraz-społeczeństwa---szlachta-idealizacja)
+    - [8.18. Wątek narodowowyzwoleńczy](#818-wątek-narodowowyzwoleńczy)
 - [9. *„Liryki Lozańskie”*](#9-liryki-lozańskie)
-  - [9.1. *„Polały się łzy me czyste rzęsiste”*](#91-polały-się-łzy-me-czyste-rzęsiste)
-  - [9.2. *„Nad wodą wielką i czystą”*](#92-nad-wodą-wielką-i-czystą)
+    - [9.1. *„Polały się łzy me czyste rzęsiste”*](#91-polały-się-łzy-me-czyste-rzęsiste)
+    - [9.2. *„Nad wodą wielką i czystą”*](#92-nad-wodą-wielką-i-czystą)
 - [10. *„Kordian”* — Juliusz Słowacki](#10-kordian--juliusz-słowacki)
-  - [10.1. Przyczyny upadku powstania listopadowego](#101-przyczyny-upadku-powstania-listopadowego)
-  - [10.2. Kordian](#102-kordian)
-    - [10.2.1. Bohater werteryczny](#1021-bohater-werteryczny)
-    - [10.2.2. Idealista](#1022-idealista)
-    - [10.2.3. *homo viator*](#1023-homo-viator)
-  - [10.3. Polska Winkelriedem narodów](#103-polska-winkelriedem-narodów)
-    - [10.3.1. Winkelriedyzm](#1031-winkelriedyzm)
-    - [10.3.2. Scena Czwarta](#1032-scena-czwarta)
-  - [10.4. Pokolenie…](#104-pokolenie)
-    - [10.4.1. …Kordianów](#1041-kordianów)
-    - [10.4.2. …Prezesów](#1042-prezesów)
-  - [10.5. Czy Kordian poniósł klęskę?](#105-czy-kordian-poniósł-klęskę)
+    - [10.1. Przyczyny upadku powstania listopadowego](#101-przyczyny-upadku-powstania-listopadowego)
+    - [10.2. Kordian](#102-kordian)
+        - [10.2.1. Bohater werteryczny](#1021-bohater-werteryczny)
+        - [10.2.2. Idealista](#1022-idealista)
+        - [10.2.3. *homo viator*](#1023-homo-viator)
+    - [10.3. Polska Winkelriedem narodów](#103-polska-winkelriedem-narodów)
+        - [10.3.1. Winkelriedyzm](#1031-winkelriedyzm)
+        - [10.3.2. Scena Czwarta](#1032-scena-czwarta)
+    - [10.4. Pokolenie…](#104-pokolenie)
+        - [10.4.1. …Kordianów](#1041-kordianów)
+        - [10.4.2. …Prezesów](#1042-prezesów)
+    - [10.5. Czy Kordian poniósł klęskę?](#105-czy-kordian-poniósł-klęskę)
 - [11. *„Grób Agamemnona”* — Juliusz Słowacki](#11-grób-agamemnona--juliusz-słowacki)
-  - [11.1. Kreacja podmiotu lirycznego](#111-kreacja-podmiotu-lirycznego)
-  - [11.2. Negatywna ocena społeczeństwa](#112-negatywna-ocena-społeczeństwa)
+    - [11.1. Kreacja podmiotu lirycznego](#111-kreacja-podmiotu-lirycznego)
+    - [11.2. Negatywna ocena społeczeństwa](#112-negatywna-ocena-społeczeństwa)
 - [12. Poezja Norwida](#12-poezja-norwida)
-  - [12.1. Poezja romantyka i polemika z ideałami romantycznymi](#121-poezja-romantyka-i-polemika-z-ideałami-romantycznymi)
-    - [12.1.1. I część kompozycyjna](#1211-i-część-kompozycyjna)
-    - [12.1.2. II cz. komp.](#1212-ii-cz-komp)
-    - [12.1.3. III cz. komp.](#1213-iii-cz-komp)
-    - [12.1.4. IV cz. komp.](#1214-iv-cz-komp)
-    - [12.1.5. V cz. komp.](#1215-v-cz-komp)
+    - [12.1. Poezja romantyka i polemika z ideałami romantycznymi](#121-poezja-romantyka-i-polemika-z-ideałami-romantycznymi)
+        - [12.1.1. I część kompozycyjna](#1211-i-część-kompozycyjna)
+        - [12.1.2. II cz. komp.](#1212-ii-cz-komp)
+        - [12.1.3. III cz. komp.](#1213-iii-cz-komp)
+        - [12.1.4. IV cz. komp.](#1214-iv-cz-komp)
+        - [12.1.5. V cz. komp.](#1215-v-cz-komp)
 - [13. PARADYGMAT ROMANTYCZNY](#13-paradygmat-romantyczny)
-  - [13.1. Polski romantyzm](#131-polski-romantyzm)
-  - [13.2. Cechy polskiego bohatera romantycznego](#132-cechy-polskiego-bohatera-romantycznego)
+    - [13.1. Polski romantyzm](#131-polski-romantyzm)
+    - [13.2. Cechy polskiego bohatera romantycznego](#132-cechy-polskiego-bohatera-romantycznego)
 - [14. DLACZEGO MICKIEWICZ WIELKIM POETĄ JEST?](#14-dlaczego-mickiewicz-wielkim-poetą-jest)
 
 ---
@@ -358,13 +358,13 @@ spotka ich taka sama kara jaka spotkała żołnierzy Cara
 ### 6.1. Wewnętrzna kompozycja — podział na 3 części
 
 1. godzina miłości — (płoną 3 świece) — 21:00\
-[ księgi zbójeckie ]
+[ księgi zbójeckie ]
 
 2. godzina rozpaczy — (płoną 2 świece) — 22:00\
-[ rozdarcie między uwielbieniem, a oskarżeniem kobiety ]
+[ rozdarcie między uwielbieniem, a oskarżeniem kobiety ]
 
 3. godzina przestrogi — (płonie 1 świeca) — 23:00\
-[ Gustaw wyjawia cel swojego przybycia ]
+[ Gustaw wyjawia cel swojego przybycia ]
 
 ### 6.2. Gustaw
 — nieznany status ontologiczny — jest wysłannikiem dusz czyśćcowych:
@@ -497,7 +497,7 @@ toczy się psychomachia: walka o duszę więźnia między duchami boskimi a szat
 
 ---
 
-### 7.4. Udziecinnienie ofiar (Alina Witkowska) [ Scena I więzienna ]
+### 7.4. Udziecinnienie ofiar (Alina Witkowska) [ Scena I więzienna ]
 
 1. carskie represje — udziecinnienie ofiar — zabieg zastosowany przez Mickiewicza (określony przez Witkowską)
 2. więźniowie — studenci, młodzież wileńska // idea mesjanizmu
@@ -520,7 +520,7 @@ toczy się psychomachia: walka o duszę więźnia między duchami boskimi a szat
 
 ---
 
-### 7.5. Obraz tyrana (kreacja Senatora)	[ Scena VI *Sen Senatora* ]
+### 7.5. Obraz tyrana (kreacja Senatora)	[ Scena VI *Sen Senatora* ]
 
 *w systemie władzy despotycznej, los człowieka jest uzależniony od kaprysu władcy*
 
@@ -546,7 +546,7 @@ toczy się psychomachia: walka o duszę więźnia między duchami boskimi a szat
 
 ---
 
-### 7.6. Obraz matki [ Scena VIII *Pan Senator* ]
+### 7.6. Obraz matki [ Scena VIII *Pan Senator* ]
 
 1. motyw *Stabat Mater Dolorosa*
 2. dodatkowo - obraz Senatora c.d.
@@ -564,7 +564,7 @@ toczy się psychomachia: walka o duszę więźnia między duchami boskimi a szat
 
 ---
 
-### 7.7. Ocena społeczeństwa [ Scena VII, VIII *Salon Warszawski*, *Bal u Senatora* ]
+### 7.7. Ocena społeczeństwa [ Scena VII, VIII *Salon Warszawski*, *Bal u Senatora* ]
 
 #### 7.7.1. Kontrast między towarzystwami (Scena VII)
 
@@ -647,7 +647,7 @@ duchem przenika do sfery metafizycznej
 
 ---
 
-### 7.9. Mesjanistyczne proroctwo [ Scena V *Widzenie ks. Piotra* ]
+### 7.9. Mesjanistyczne proroctwo [ Scena V *Widzenie ks. Piotra* ]
 
 1. ks. Piotr leży krzyżem // jest pokorny, posłuszny — postawa chrześcijańskiej pokory\
    *«Ja, proch, będę z Panem gadał»*
@@ -699,12 +699,12 @@ przepowiada, że przyjdzie wskrzesiciel narodu, tajemniczy mąż 40 i 4 — mesj
 
 bohaterem jest pielgrzym (można zinterpretować, że pielgrzym może być Konradem, lub *parte parole* Mickiewicza)
 
-#### 7.11.1. Obraz Syberii [ Droga do Rosji ]
+#### 7.11.1. Obraz Syberii [ Droga do Rosji ]
 1. długie białe, krzyżujące się drogi
 2. więźniowie są wywożeni w kibitkach na skazanie
 3. semantyka bieli: biała chata w widzeniu ks. Piotra — symbol wolności; symbol obojętności, samotności
 
-#### 7.11.2. Obraz Petersburga [ Przedmieścia stolicy, Petersburg ]
+#### 7.11.2. Obraz Petersburga [ Przedmieścia stolicy, Petersburg ]
 
 1. bogactwo, przepych, chaos (eklektyzm), przerysowanie
 2. brzydka architektura, kaleki pałac — brzydki (niewidomy) // neg. obraz miasta
@@ -715,7 +715,7 @@ bohaterem jest pielgrzym (można zinterpretować, że pielgrzym może być Konra
 7. karykaturalność, przerysowanie, groteska
 8. miasto powstałe na błocie (błoto $=$ zło), na cierpieniu ludzi, na ofierze więźniów; zbudowane z zachcianki cara
 
-#### 7.11.3. Obraz władców [ Pomnik Piotra Wielkiego ]
+#### 7.11.3. Obraz władców [ Pomnik Piotra Wielkiego ]
 
 1. Piotr Wielki
    1. wielki, na koniu
@@ -1147,7 +1147,7 @@ Sama próba zabójstwa cara jest już zwycięstwem, Kordian trzyma się swojej i
 
 ### 11.1. Kreacja podmiotu lirycznego
 1. poeta, którego atrybutem jest lutnia\
-   [ sytuacja lir. — p. lir. odwiedza zaniedbany grób Agamemnona, panuje ponury nastrój ]
+   [ sytuacja lir. — p. lir. odwiedza zaniedbany grób Agamemnona, panuje ponury nastrój ]
 2. w grobowcu do poety przychodzi natchnienie, symbolizuje je Harfa Homera, Bajda, Aojda — wielkie czyny bohaterów
 3. nie może niczego stworzyć, jest bezradny, bezsilny, *«Struna pękła bez jęku»*
 4. nie ma dla kogo tworzyć, jest niezrozumiany, nie ma o czym pisać

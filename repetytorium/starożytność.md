@@ -7,72 +7,72 @@
 **Spis treści**
 
 - [1. Style wypowiedzi](#1-style-wypowiedzi)
-  - [1.1. Styl potoczny](#11-styl-potoczny)
-  - [1.2. Styl naukowy](#12-styl-naukowy)
-  - [1.3. Styl urzędowo-kancelaryjny](#13-styl-urzędowo-kancelaryjny)
-  - [1.4. Styl artystyczny](#14-styl-artystyczny)
-  - [1.5. Style retoryczny](#15-style-retoryczny)
-  - [1.6. Styl publicystyczny](#16-styl-publicystyczny)
-  - [1.7. Stylizacja](#17-stylizacja)
-  - [1.8. Elementy aktu komunikacji Romana Jacobsona](#18-elementy-aktu-komunikacji-romana-jacobsona)
-  - [1.9. Topos](#19-topos)
-  - [1.10. Archetyp](#110-archetyp)
+    - [1.1. Styl potoczny](#11-styl-potoczny)
+    - [1.2. Styl naukowy](#12-styl-naukowy)
+    - [1.3. Styl urzędowo-kancelaryjny](#13-styl-urzędowo-kancelaryjny)
+    - [1.4. Styl artystyczny](#14-styl-artystyczny)
+    - [1.5. Style retoryczny](#15-style-retoryczny)
+    - [1.6. Styl publicystyczny](#16-styl-publicystyczny)
+    - [1.7. Stylizacja](#17-stylizacja)
+    - [1.8. Elementy aktu komunikacji Romana Jacobsona](#18-elementy-aktu-komunikacji-romana-jacobsona)
+    - [1.9. Topos](#19-topos)
+    - [1.10. Archetyp](#110-archetyp)
 - [2. Esej jako forma gatunkowa](#2-esej-jako-forma-gatunkowa)
 - [3. Prometeusz — bohater wieloznaczny (fragm. eseju Głowińskiego)](#3-prometeusz--bohater-wieloznaczny-fragm-eseju-głowińskiego)
-  - [3.1. Sprzeczne role Prometeusza](#31-sprzeczne-role-prometeusza)
+    - [3.1. Sprzeczne role Prometeusza](#31-sprzeczne-role-prometeusza)
 - [4. Ukaranie Prometeusza Karela Čapka jako przykład groteski](#4-ukaranie-prometeusza-karela-čapka-jako-przykład-groteski)
-  - [4.1. Manipulacja językowa](#41-manipulacja-językowa)
-  - [4.2. Oskarżony jest winny](#42-oskarżony-jest-winny)
-  - [4.3. Groteska](#43-groteska)
+    - [4.1. Manipulacja językowa](#41-manipulacja-językowa)
+    - [4.2. Oskarżony jest winny](#42-oskarżony-jest-winny)
+    - [4.3. Groteska](#43-groteska)
 - [5. Labirynt — metaforyczne sensy](#5-labirynt--metaforyczne-sensy)
-  - [5.1. „Labirynt nad morzem” Herberta](#51-labirynt-nad-morzem-herberta)
-    - [5.1.1. Kultura minojska](#511-kultura-minojska)
-    - [5.1.2. Kultura malarstwa egipskiego](#512-kultura-malarstwa-egipskiego)
-    - [5.1.3. Etymologia słowa «Labirynt»](#513-etymologia-słowa-labirynt)
-    - [5.1.4. Odczucia Herberta w Heraklionie](#514-odczucia-herberta-w-heraklionie)
-    - [5.1.5. Mit o Minotaurze](#515-mit-o-minotaurze)
-    - [5.1.6. Koncepcje Platona](#516-koncepcje-platona)
-    - [5.1.7. Koncepcje Wunderlicha](#517-koncepcje-wunderlicha)
-  - [5.2. „Labirynt budowany w słowie” — analiza eseju Michała Głowińskiego](#52-labirynt-budowany-w-słowie--analiza-eseju-michała-głowińskiego)
-  - [5.3. „Te korytarze” Czesława Miłosza](#53-te-korytarze-czesława-miłosza)
-- [6. „Półmrok ludzkiego świata” — Eseje Zygmunta Kubiaka](#6-półmrok-ludzkiegoświata--eseje-zygmunta-kubiaka)
-  - [6.1. Homer i Orfeusz](#61-homer-i-orfeusz)
-  - [6.2. „Grecy już nie żyli […] w obrębie łaskawego marginesu historii”](#62-grecy-już-nie-żyli--w-obrębie-łaskawego-marginesu-historii)
-  - [6.3. Porównanie **poezji do lampy w mroku**](#63-porównanie-poezji-do-lampy-w-mroku)
-  - [6.4. Ślepota Homera](#64-ślepota-homera)
-  - [6.5. Współczesny mit o Orfeuszu (archetyp artysty)](#65-współczesny-mit-o-orfeuszu-archetyp-artysty)
-  - [6.6. Apollo i Marsjasz](#66-apollo-i-marsjasz)
+    - [5.1. „Labirynt nad morzem” Herberta](#51-labirynt-nad-morzem-herberta)
+        - [5.1.1. Kultura minojska](#511-kultura-minojska)
+        - [5.1.2. Kultura malarstwa egipskiego](#512-kultura-malarstwa-egipskiego)
+        - [5.1.3. Etymologia słowa «Labirynt»](#513-etymologia-słowa-labirynt)
+        - [5.1.4. Odczucia Herberta w Heraklionie](#514-odczucia-herberta-w-heraklionie)
+        - [5.1.5. Mit o Minotaurze](#515-mit-o-minotaurze)
+        - [5.1.6. Koncepcje Platona](#516-koncepcje-platona)
+        - [5.1.7. Koncepcje Wunderlicha](#517-koncepcje-wunderlicha)
+    - [5.2. „Labirynt budowany w słowie” — analiza eseju Michała Głowińskiego](#52-labirynt-budowany-w-słowie--analiza-eseju-michała-głowińskiego)
+    - [5.3. „Te korytarze” Czesława Miłosza](#53-te-korytarze-czesława-miłosza)
+- [6. „Półmrok ludzkiego świata” — Eseje Zygmunta Kubiaka](#6-półmrok-ludzkiego-świata--eseje-zygmunta-kubiaka)
+    - [6.1. Homer i Orfeusz](#61-homer-i-orfeusz)
+    - [6.2. „Grecy już nie żyli […] w obrębie łaskawego marginesu historii”](#62-grecy-już-nie-żyli--w-obrębie-łaskawego-marginesu-historii)
+    - [6.3. Porównanie **poezji do lampy w mroku**](#63-porównanie-poezji-do-lampy-w-mroku)
+    - [6.4. Ślepota Homera](#64-ślepota-homera)
+    - [6.5. Współczesny mit o Orfeuszu (archetyp artysty)](#65-współczesny-mit-o-orfeuszu-archetyp-artysty)
+    - [6.6. Apollo i Marsjasz](#66-apollo-i-marsjasz)
 - [7. Teatr w starożytnej Grecji](#7-teatr-w-starożytnej-grecji)
 - [8. Struktura tragedii (wewnętrzna i zewnętrzna)](#8-struktura-tragedii-wewnętrzna-i-zewnętrzna)
-  - [8.1. Etymologia](#81-etymologia)
-  - [8.2. Promotorzy](#82-promotorzy)
+    - [8.1. Etymologia](#81-etymologia)
+    - [8.2. Promotorzy](#82-promotorzy)
 - [9. „Król Edyp” jako przykład doskonałej tragedii](#9-król-edyp-jako-przykład-doskonałej-tragedii)
-  - [9.1. Charakterystyka Edypa](#91-charakterystyka-edypa)
-  - [9.2. Edyp kiedy ktoś mu się sprzeciwia (Tyrezjasz mu się sprzeciwia)](#92-edyp-kiedy-ktoś-mu-sięsprzeciwia-tyrezjasz-mu-sięsprzeciwia)
-  - [9.3. Uniwersalna wymowa tragedii](#93-uniwersalna-wymowa-tragedii)
-  - [9.4. Koncepcja losu ludzkiego](#94-koncepcja-losu-ludzkiego)
-  - [9.5. Filozofia platońska, stoicka, egzystencjalna](#95-filozofia-platońska-stoicka-egzystencjalna)
+    - [9.1. Charakterystyka Edypa](#91-charakterystyka-edypa)
+    - [9.2. Edyp kiedy ktoś mu się sprzeciwia (Tyrezjasz mu się sprzeciwia)](#92-edyp-kiedy-ktoś-mu-się-sprzeciwia-tyrezjasz-mu-się-sprzeciwia)
+    - [9.3. Uniwersalna wymowa tragedii](#93-uniwersalna-wymowa-tragedii)
+    - [9.4. Koncepcja losu ludzkiego](#94-koncepcja-losu-ludzkiego)
+    - [9.5. Filozofia platońska, stoicka, egzystencjalna](#95-filozofia-platońska-stoicka-egzystencjalna)
 - [10. Biblia](#10-biblia)
-  - [10.1. Księga Hioba](#101-księga-hioba)
-  - [10.2. Księga Koheleta](#102-księga-koheleta)
-  - [10.3. Księga Psalmów](#103-księga-psalmów)
-    - [10.3.1. Psalm — gatunek](#1031-psalm--gatunek)
-    - [10.3.2. Psalm 1 (mądrościowy)](#1032-psalm-1-mądrościowy)
-    - [10.3.3. Psalm 100 (dziękczynny, pochwalny)](#1033-psalm-100-dziękczynny-pochwalny)
-    - [10.3.4. Psalm 130 (błagalny)](#1034-psalm-130-błagalny)
-  - [10.4. Pieśń nad Pieśniami](#104-pieśń-nad-pieśniami)
-  - [10.5. Hymn o miłości św. Pawła](#105-hymn-o-miłości-św-pawła)
-  - [10.6. Apokalipsa św. Jana](#106-apokalipsa-św-jana)
-  - [10.7. Przypowieści biblijne](#107-przypowieści-biblijne)
-  - [10.8. Cechy stylu biblijnego](#108-cechy-stylu-biblijnego)
+    - [10.1. Księga Hioba](#101-księga-hioba)
+    - [10.2. Księga Koheleta](#102-księga-koheleta)
+    - [10.3. Księga Psalmów](#103-księga-psalmów)
+        - [10.3.1. Psalm — gatunek](#1031-psalm--gatunek)
+        - [10.3.2. Psalm 1 (mądrościowy)](#1032-psalm-1-mądrościowy)
+        - [10.3.3. Psalm 100 (dziękczynny, pochwalny)](#1033-psalm-100-dziękczynny-pochwalny)
+        - [10.3.4. Psalm 130 (błagalny)](#1034-psalm-130-błagalny)
+    - [10.4. Pieśń nad Pieśniami](#104-pieśń-nad-pieśniami)
+    - [10.5. Hymn o miłości św. Pawła](#105-hymn-o-miłości-św-pawła)
+    - [10.6. Apokalipsa św. Jana](#106-apokalipsa-św-jana)
+    - [10.7. Przypowieści biblijne](#107-przypowieści-biblijne)
+    - [10.8. Cechy stylu biblijnego](#108-cechy-stylu-biblijnego)
 - [11. Uczta Platona](#11-uczta-platona)
 - [12. „Wieża” Gustawa Herlinga Grudzińskiego (GHG)](#12-wieża-gustawa-herlinga-grudzińskiego-ghg)
-  - [12.1. Rola inicjalnej części opowiadania](#121-rola-inicjalnej-części-opowiadania)
-  - [12.2. Rola finalnej części opowiadania](#122-rola-finalnej-części-opowiadania)
-  - [12.3. Losy bohaterów](#123-losy-bohaterów)
-  - [12.4. Historia świętokrzyskiego pielgrzyma jako metafora ludzkiej egzystencji](#124-historia-świętokrzyskiego-pielgrzyma-jako-metafora-ludzkiej-egzystencji)
-  - [12.5. Bezpośrednie i pośrednie odwołania do księgi Hioba](#125-bezpośrednie-i-pośrednie-odwołania-do-księgi-hioba)
-  - [12.6. ROLA LITERATURY](#126-rola-literatury)
+    - [12.1. Rola inicjalnej części opowiadania](#121-rola-inicjalnej-części-opowiadania)
+    - [12.2. Rola finalnej części opowiadania](#122-rola-finalnej-części-opowiadania)
+    - [12.3. Losy bohaterów](#123-losy-bohaterów)
+    - [12.4. Historia świętokrzyskiego pielgrzyma jako metafora ludzkiej egzystencji](#124-historia-świętokrzyskiego-pielgrzyma-jako-metafora-ludzkiej-egzystencji)
+    - [12.5. Bezpośrednie i pośrednie odwołania do księgi Hioba](#125-bezpośrednie-i-pośrednie-odwołania-do-księgi-hioba)
+    - [12.6. ROLA LITERATURY](#126-rola-literatury)
 - [13. „Psalmów Psalm” Norwida](#13-psalmów-psalm-norwida)
 - [14. Jeźdźcy — Kazik](#14-jeźdźcy--kazik)
 
@@ -285,7 +285,7 @@ $$
 
 - subiektywizm, swobodna forma
 - definicja eseju jest otwarta
-- intertekstualność – odwołania do innych tekstów
+- intertekstualność – odwołania do innych tekstów
   - erudycyjność
   - asocjacyjność
 - intelektualizm
@@ -477,7 +477,7 @@ Knossos nie było siedzibą królów kreteńskich, ale pałacem zmarłych, ogrom
 
 Metaforyczny sens:
 - poziom skomplikowania języka
-- niemożność wyrażenia się, porozumienia się z drugim człowiekiem
+- niemożność wyrażenia się, porozumienia się z drugim człowiekiem
 
 Peryfraza Labiryntu: **swoiście ukształtowana przestrzeń**
 
@@ -494,7 +494,7 @@ Charakterystyka nadawcy tekstu: badacz mitów, naukowiec, erudyta, utożsamia si
 
 ---
 
-## 6. „Półmrok ludzkiego świata” — Eseje Zygmunta Kubiaka
+## 6. „Półmrok ludzkiego świata” — Eseje Zygmunta Kubiaka
 
 ### 6.1. Homer i Orfeusz
 
@@ -649,7 +649,7 @@ trago $=$ kozioł $\land$ ode $=$ pieśń $\implies$ **tragedia $=$ pieśń koz�
 - identyfikuje się z ludem
 - empatyczny, cierpi razem z Tebańczykami
 
-### 9.2. Edyp kiedy ktoś mu się sprzeciwia (Tyrezjasz mu się sprzeciwia)
+### 9.2. Edyp kiedy ktoś mu się sprzeciwia (Tyrezjasz mu się sprzeciwia)
 - wybucha gniewem
 - nie znosi sprzeciwu
 - pyszny, obraża Bogów (obrażając Tyrezjasza)
