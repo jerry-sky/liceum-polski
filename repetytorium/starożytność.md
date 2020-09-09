@@ -33,19 +33,22 @@
         - [5.1.5. Mit o Minotaurze](#515-mit-o-minotaurze)
         - [5.1.6. Koncepcje Platona](#516-koncepcje-platona)
         - [5.1.7. Koncepcje Wunderlicha](#517-koncepcje-wunderlicha)
-    - [5.2. „Labirynt budowany w słowie” — analiza eseju Michała Głowińskiego](#52-labirynt-budowany-w-słowie--analiza-eseju-michała-głowińskiego)
-    - [5.3. „Te korytarze” Czesława Miłosza](#53-te-korytarze-czesława-miłosza)
-- [6. „Półmrok ludzkiego świata” — Eseje Zygmunta Kubiaka](#6-półmrok-ludzkiego-świata--eseje-zygmunta-kubiaka)
-    - [6.1. Homer i Orfeusz](#61-homer-i-orfeusz)
-    - [6.2. „Grecy już nie żyli […] w obrębie łaskawego marginesu historii”](#62-grecy-już-nie-żyli--w-obrębie-łaskawego-marginesu-historii)
+    - [5.2. *„Labirynt budowany w słowie”* — analiza eseju Michała Głowińskiego](#52-labirynt-budowany-w-słowie--analiza-eseju-michała-głowińskiego)
+    - [5.3. *„Te korytarze”* Czesława Miłosza](#53-te-korytarze-czesława-miłosza)
+- [6. *„Półmrok ludzkiego świata”* — Eseje Zygmunta Kubiaka](#6-półmrok-ludzkiego-świata--eseje-zygmunta-kubiaka)
+    - [6.1. *„Homer i Orfeusz”*](#61-homer-i-orfeusz)
+    - [6.2. *«Grecy już nie żyli […] w obrębie łaskawego marginesu historii»*](#62-grecy-już-nie-żyli--w-obrębie-łaskawego-marginesu-historii)
     - [6.3. Porównanie **poezji do lampy w mroku**](#63-porównanie-poezji-do-lampy-w-mroku)
     - [6.4. Ślepota Homera](#64-ślepota-homera)
     - [6.5. Współczesny mit o Orfeuszu (archetyp artysty)](#65-współczesny-mit-o-orfeuszu-archetyp-artysty)
+        - [6.5.1. Józef Wittlin — *„Orfeusz w piekle XX wieku”*](#651-józef-wittlin--orfeusz-w-piekle-xx-wieku)
+        - [6.5.2. Aleksander Wat — *„Wiersz ostatni”*](#652-aleksander-wat--wiersz-ostatni)
     - [6.6. Apollo i Marsjasz](#66-apollo-i-marsjasz)
 - [7. Teatr w starożytnej Grecji](#7-teatr-w-starożytnej-grecji)
 - [8. Struktura tragedii (wewnętrzna i zewnętrzna)](#8-struktura-tragedii-wewnętrzna-i-zewnętrzna)
     - [8.1. Etymologia](#81-etymologia)
     - [8.2. Promotorzy](#82-promotorzy)
+        - [8.2.1. Arystoteles — *„Poetyka”* — wszystkie prawidła dotyczące doskonałej tragedii](#821-arystoteles--poetyka--wszystkie-prawidła-dotyczące-doskonałej-tragedii)
 - [9. „Król Edyp” jako przykład doskonałej tragedii](#9-król-edyp-jako-przykład-doskonałej-tragedii)
     - [9.1. Charakterystyka Edypa](#91-charakterystyka-edypa)
     - [9.2. Edyp kiedy ktoś mu się sprzeciwia (Tyrezjasz mu się sprzeciwia)](#92-edyp-kiedy-ktoś-mu-się-sprzeciwia-tyrezjasz-mu-się-sprzeciwia)
@@ -332,7 +335,7 @@ Prometeusz jako bohater wieloznaczny, absurdalny, paradoksalny. Odgrywa wiele sp
 
 - forma zamierzonego działania, którego celem jest wywieranie wpływu na osobę, lub grupę osób
 - środki językowe
-  - użycie 1os. liczby mnogiej
+  - użycie 1 os. liczby mnogiej
   - wywołanie wrażenia identyfikacji z czytelnikiem
   - eufemizmy
   - wyrazy wartościujące
@@ -435,7 +438,7 @@ Freski:
    - łatwość chwytania kształtów jednym konturem
    - niesubstancjonalność (brak kośćca, mięsa, materii, struktury) ludzi, zwierząt i roślin bez korzeni
 
-Opinie Herberta–
+Opinie Herberta:
    1. na temat sposobu pracy Evansa: zauważa odtwarzanie fresków według własnej wizji odkrywcy
    2. o wyglądzie fresków:\
       są nieliczne, okaleczone zabiegami konserwatorów i jako takie wymagają naszego współczucia i zrozumienia
@@ -473,7 +476,7 @@ Knossos nie było siedzibą królów kreteńskich, ale pałacem zmarłych, ogrom
 
 **Herbert przy ocenie Evansa nazywa go TENNYSONEM archeologii**
 
-### 5.2. „Labirynt budowany w słowie” — analiza eseju Michała Głowińskiego
+### 5.2. *„Labirynt budowany w słowie”* — analiza eseju Michała Głowińskiego
 
 Metaforyczny sens:
 - poziom skomplikowania języka
@@ -483,9 +486,9 @@ Peryfraza Labiryntu: **swoiście ukształtowana przestrzeń**
 
 **Labirynt budowany w słowie to wszystkie interpretacje mitu, wszystkie słowa wyjaśniające labirynt**
 
-Charakterystyka nadawcy tekstu: badacz mitów, naukowiec, erudyta, utożsamia się z czytelnikiem (1os. liczby mnogiej)
+Charakterystyka nadawcy tekstu: badacz mitów, naukowiec, erudyta, utożsamia się z czytelnikiem (1 os. liczby mnogiej)
 
-### 5.3. „Te korytarze” Czesława Miłosza
+### 5.3. *„Te korytarze”* Czesława Miłosza
 
 - sytuacja liryczna: błądzenie w labiryncie życia
 - życie to zdążanie do celu czyli do śmierci
@@ -494,9 +497,9 @@ Charakterystyka nadawcy tekstu: badacz mitów, naukowiec, erudyta, utożsamia si
 
 ---
 
-## 6. „Półmrok ludzkiego świata” — Eseje Zygmunta Kubiaka
+## 6. *„Półmrok ludzkiego świata”* — Eseje Zygmunta Kubiaka
 
-### 6.1. Homer i Orfeusz
+### 6.1. *„Homer i Orfeusz”*
 
 Homer:
 - wojna
@@ -523,7 +526,7 @@ Obaj:
 - poeci
 - pieśniarze
 
-### 6.2. „Grecy już nie żyli […] w obrębie łaskawego marginesu historii”
+### 6.2. *«Grecy już nie żyli […] w obrębie łaskawego marginesu historii»*
 - metafora, przenośnia
 - łaskawym marginesem historii był czas bez wojen. Grecy żyli w późniejszym etapie, w którym powstała cywilizacja oraz było wiele wojen
 - **margines łaskawy — czas pokoju**
@@ -536,13 +539,13 @@ Obaj:
 - Homer dzięki słowom, poezji, mógł niczym lampie w mroku, przedzierać się do tajemnicy świata i życia, do poznania prawdy
 
 ### 6.4. Ślepota Homera
-- „Bogowie zabrali mu światło z oczu, ale za to dali mu pieśń”
-- „Autor Iliady nie był ślepy. Ale żył w świecie ciemnym, szarym”
+- *„Bogowie zabrali mu światło z oczu, ale za to dali mu pieśń”*
+- *„Autor Iliady nie był ślepy. Ale żył w świecie ciemnym, szarym”*
 - żył w świecie ubogim w sztukę, gdzie ludzie nie dostrzegali echa poezji i kultury kreteńskiej, nie widzieli piękna
 
 ### 6.5. Współczesny mit o Orfeuszu (archetyp artysty)
 
-*Józef Wittlin — „Orfeusz w piekle XX wieku”:*
+#### 6.5.1. Józef Wittlin — *„Orfeusz w piekle XX wieku”*
 - piekło XX wieku — wojna, obozy koncentracyjne
 - dzisiejszy Orfeusz — artysta nie ma już tej mocy
 - rola artysty — bezsilny, bezradny wobec zła, zagłuszony przez łoskot współczesnego świata
@@ -553,16 +556,16 @@ Obaj:
 - współczesny Orfeusz nie potrafi poskromić bestii w ludzkim sercu
 - dawny Orfeusz pokonywał dźwięki przyrody, współczesny Orfeusz musi krzyczeć, żeby być usłyszanym (chaos współczesnego świata)
 
-*Aleksander Wat — „Wiersz ostatni”*
+#### 6.5.2. Aleksander Wat — *„Wiersz ostatni”*
 - p. lir. opisuje zejście do metra
 - przywołuje topos katabasy
 - ludzkie życie to dążenie w dół do śmierci
-- anafora - powtórzenie „schodzenie”
+- anafora — powtórzenie *«schodzenie»*
 - ucieczka od chaosu
 
 ### 6.6. Apollo i Marsjasz
 
-- p. lir. - obserwator
+- p. lir. — obserwator
 - Apollo:
   - gra na lirze (liryka)
   - reprezentuje klasycyzm (brak uczuć, doskonałość)
@@ -571,7 +574,7 @@ Obaj:
   - niewrażliwy
   - obojętny, niewzruszony
   - doskonały, opanowany
-  - bóg "nerwy z tworzywa sztucznego"
+  - bóg, *«nerwy z tworzywa sztucznego»*
 
 - Marsjasz:
   - gra na flecie
@@ -615,7 +618,7 @@ trago $=$ kozioł $\land$ ode $=$ pieśń $\implies$ **tragedia $=$ pieśń koz�
 - Ajschylos — wprowadza drugiego aktora
 - Sofokles — wprowadza trzeciego aktora
 - Eurypides — wprowadza żeńskie postaci
-- Arystoteles — „Poetyka” — wszystkie prawidła dotyczące doskonałej tragedii:
+#### 8.2.1. Arystoteles — *„Poetyka”* — wszystkie prawidła dotyczące doskonałej tragedii
   - zewnętrzne elementy struktury tragedii
     - prolog — wprowadzenie
     - parodos — wejście chóru, śpiew chóru
@@ -639,7 +642,7 @@ trago $=$ kozioł $\land$ ode $=$ pieśń $\implies$ **tragedia $=$ pieśń koz�
 ## 9. „Król Edyp” jako przykład doskonałej tragedii
 
 ### 9.1. Charakterystyka Edypa
-- współczujący, "O biedna dziatwo"
+- współczujący, *«O biedna dziatwo»*
 - litościwy
 - troskliwy
 - opiekuńczy
@@ -675,7 +678,7 @@ trago $=$ kozioł $\land$ ode $=$ pieśń $\implies$ **tragedia $=$ pieśń koz�
 
 - Człowiek jest marionetką w teatrze świata. // topos Theatrum Mundi
 - To co widzimy to tylko odbicia prawdziwych bytów niedostępnych dla zmysłów człowieka
-- Prawdziwy świat jest idealny - do którego należy dążyć
+- Prawdziwy świat jest idealny — do którego należy dążyć
 - Dusza — element najwyższej wartości poznawczej
 - Stoicyzm — opanowanie emocji, chęci przyjemności jest podstawą do osiągnięcia szczęścia; najważniejsze jest życie zgodne z rozumem; życie należy przyjmować jakim jest niezależnie od sytuacji należy zachować stoicki spokój (wewnętrzny ład, równowagę emocjonalną) w życiu należy się kierować stoicką cnotą, nie pożądać więcej niż jest potrzebne, nie należy bać się śmierci, gdyż jest ona wpisana w ludzkie życie; nadmiar $=$ źródło niepotrzebnych rządz
 
@@ -698,7 +701,8 @@ Hiob:
 - sprawdzian człowieczeństwa
 - poznanie czym jest szczęście
 
-*„Pan dał, pan wziął”, „Nago wyszedłem z żywota matki mojej i nago się teraz wrócę”*
+*«Pan dał, pan wziął»*\
+*«Nago wyszedłem z żywota matki mojej i nago się teraz wrócę»*
 
 ### 10.2. Księga Koheleta
 
@@ -707,7 +711,7 @@ Hiob:
 - rozważania autor na temat wartości ludzkiej egzystencji
 - dochodzi on do wniosku, że wszystkie uciechy ziemskie są bezwartościowe
 - **traktat filozoficzny**
-- **przemijanie - motyw wanitatywny**
+- **przemijanie — motyw wanitatywny**
 
 **// optymistyczna wymowa - trzeba się cieszyć życiem, które przemija, czerpać z życia póki się da**
 
@@ -733,11 +737,11 @@ rodzaje psalmów:
   - sprawiedliwych
     - życie zgodne z zasadami moralnymi wynikającymi z Prawa Mojżeszowego
     - droga radości
-    - dostatniego życia $\rightarrow$ alegoria drzewa rosnącego przy wodzie
+    - dostatniego życia → alegoria drzewa rosnącego przy wodzie
   - grzeszników
     - grzesznicy to plewy, które wiatr roznosi
     - motyw sądu, na którym Pan nagrodzi sprawiedliwych a występnych ukarze
-- Nawiązanie do Hioba, relacje między Bogiem a Hiobem - pokora i poddanie się doprowadziło do szczęśliwego życia
+- Nawiązanie do Hioba, relacje między Bogiem a Hiobem — pokora i poddanie się doprowadziło do szczęśliwego życia
 
 #### 10.3.3. Psalm 100 (dziękczynny, pochwalny)
 
@@ -768,7 +772,7 @@ rodzaje psalmów:
 - **Topos miłości**
 - **Oblubieniec i Oblubienica**
   - kochają się i swoją fizyczność zestawiają z przyrodą
-- tło - przyroda, tworzywa porównań (zęby jak trzody owiec, oczy twe gołębie; głowa to złoto najlepsze, zęby białe jak mleko)
+- tło — przyroda, tworzywa porównań (zęby jak trzody owiec, oczy twe gołębie; głowa to złoto najlepsze, zęby białe jak mleko)
 - Poemat w warstwie dosłownej odczytywany jest jako zmysłowa liryka miłosna
 - w interpretacji alegorycznej oblubieniec to Bóg, a oblubienica to wspólnota ludzi
 
@@ -823,7 +827,7 @@ rodzaje psalmów:
 ### 10.7. Przypowieści biblijne
 
 - utwór narracyjny zawierający opowieść zmyśloną acz prawdopodobną oraz jej metaforyczny sens
-- inaczej: **parabola** - ważniejsze odczytanie warstwy ukrytej niż sama treść
+- inaczej: **parabola** — ważniejsze odczytanie warstwy ukrytej niż sama treść
 - charakter uniwersalny (czas, miejsce, stypizowani bohaterowie)
 - ilustracja ogólnych prawd filozoficznych, moralnych, religijnych
 - cel: ukazanie drogi do Królestwa Niebieskiego
@@ -865,8 +869,8 @@ rodzaje psalmów:
 
 ## 11. Uczta Platona
 
-1. **KONCEPCJA MIŁOŚCI, TOPOS MIŁOŚCI **
-- platońska idea przedstawiona przez Sokratesa, bohatera "Uczty" Platona
+1. **KONCEPCJA MIŁOŚCI, TOPOS MIŁOŚCI**
+- platońska idea przedstawiona przez Sokratesa, bohatera *„Uczty”* Platona
 - nie wystarczy kochać ciało (miłość zmysłowa), bo szybko się nudzą, trzeba dążyć do miłości nadzmysłowej
 
 2. **MIŁOŚĆ PLATONICZNA** - **NADZMYSŁOWA** (jest **siłą twórczą**)
@@ -881,16 +885,16 @@ rodzaje psalmów:
 ### 12.2. Rola finalnej części opowiadania
 
 - podsumowanie problematyki
-- GHG w ostatnim rozdziale wyznaje, że nie potrafi i nie chce napisać opowieści o mieszkańcu wieży; wielokrotnie lecz bezskutecznie próbuje dokończyć swoje dzieło - cierpienie to tajemnica
+- GHG w ostatnim rozdziale wyznaje, że nie potrafi i nie chce napisać opowieści o mieszkańcu wieży; wielokrotnie lecz bezskutecznie próbuje dokończyć swoje dzieło — cierpienie to tajemnica
 - mówi o roli literatury w życiu człowieka: **LITERATURA DAJE NADZIEJĘ**
-- „Kiedy wpadniecie panie w sidła bólu i zgryzoty pomyślcie o samotniku z miasta Aosta. Wasza wizyta nie okaże się wówczas nadaremna”
+- *«Kiedy wpadniecie panie w sidła bólu i zgryzoty pomyślcie o samotniku z miasta Aosta. Wasza wizyta nie okaże się wówczas nadaremna»*
 
 ### 12.3. Losy bohaterów
 
 1. Osierocony Lebbroso zamieszkuje wieżę ogrodzoną murkiem.
 2. Później zamieszkuje razem z siostrą, przybłąkuje się też pies Miracollo.
 3. Śmierć siostry, zabicie psa przez mieszkańców Aosty
-4. punkt zapalny - zauważenie pary kochanków - próba samobójcza Lebbrosa, odnalezienie listu, biblii i księgi Hioba
+4. punkt zapalny — zauważenie pary kochanków — próba samobójcza Lebbrosa, odnalezienie listu, biblii i księgi Hioba
 5. De Maistre pojawia się w Aoście jako oficer
 6. śmieć trędowatego Pier Bernardo Guasco
 7. Utrata rodziny nauczyciela przez trzęsienie ziemi
@@ -908,8 +912,8 @@ rodzaje psalmów:
 
 ### 12.4. Historia świętokrzyskiego pielgrzyma jako metafora ludzkiej egzystencji
 
-- góra, święty Krzyż - cel // sfera sacrum
-- pozycja figury - klęcząca // pokora
+- góra, święty Krzyż — cel // sfera sacrum
+- pozycja figury — klęcząca // pokora
 - przesuwa się co roku o ziarnko maku // cierpliwość
 - brak twarzy // każdy może się z nim utożsamić
 - mała, zniekształcona głowa // ból, cierpienie

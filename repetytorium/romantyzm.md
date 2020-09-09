@@ -61,7 +61,7 @@
     - [7.7. Ocena społeczeństwa [ Scena VII, VIII *Salon Warszawski*, *Bal u Senatora* ]](#77-ocena-społeczeństwa--scena-vii-viii-salon-warszawski-bal-u-senatora-)
         - [7.7.1. Kontrast między towarzystwami (Scena VII)](#771-kontrast-między-towarzystwami-scena-vii)
         - [7.7.2. Kontrast (Scena VIII)](#772-kontrast-scena-viii)
-    - [7.8. **W**ielkie monologi Konradowskie (**t**ypowe dla dramatu romantycznego)](#78-wielkie-monologi-konradowskie-typowe-dla-dramatu-romantycznego)
+    - [7.8. Wielkie **m**onologi Konradowskie (**t**ypowe dla dramatu romantycznego)](#78-wielkie-monologi-konradowskie-typowe-dla-dramatu-romantycznego)
         - [7.8.1. Pieśń Zemsty](#781-pieśń-zemsty)
         - [7.8.2. Mała improwizacja (ma być proroctwem)](#782-mała-improwizacja-ma-być-proroctwem)
         - [7.8.3. WIELKA IMPROWIZACJA](#783-wielka-improwizacja)
@@ -95,7 +95,7 @@
     - [8.14. Losy Jacka Soplicy](#814-losy-jacka-soplicy)
     - [8.15. Legenda Napoleona? — rezygnacja z troski o prawdopodobieństwo](#815-legenda-napoleona--rezygnacja-z-troski-o-prawdopodobieństwo)
     - [8.16. Sposób przedstawienia historii](#816-sposób-przedstawienia-historii)
-    - [8.17. Obraz społeczeństwa - szlachta (idealizacja)](#817-obraz-społeczeństwa---szlachta-idealizacja)
+    - [8.17. Obraz społeczeństwa — szlachta (idealizacja)](#817-obraz-społeczeństwa--szlachta-idealizacja)
     - [8.18. Wątek narodowowyzwoleńczy](#818-wątek-narodowowyzwoleńczy)
 - [9. *„Liryki Lozańskie”*](#9-liryki-lozańskie)
     - [9.1. *„Polały się łzy me czyste rzęsiste”*](#91-polały-się-łzy-me-czyste-rzęsiste)
@@ -549,11 +549,11 @@ toczy się psychomachia: walka o duszę więźnia między duchami boskimi a szat
 ### 7.6. Obraz matki [ Scena VIII *Pan Senator* ]
 
 1. motyw *Stabat Mater Dolorosa*
-2. dodatkowo - obraz Senatora c.d.
+2. dodatkowo — obraz Senatora c.d.
    1. nadużywający władzy, szantażuje Kanissyna
    2. ucieka od odpowiedzialności, brak honoru, okrutny, cyniczny
    3. plugawy, bezwzględny; szydzi z matki Rollisona, kiedy ta przychodzi do niego zapytać się o swojego syna
-3. dodatkowo - obraz Doktora i Pelikana:
+3. dodatkowo — obraz Doktora i Pelikana:
    1. przekupni, fałszywi, interesowni, tchórzliwi
    2. rywalizują ze sobą o łaski Senatora
 
@@ -607,7 +607,7 @@ Plwajmy na tę skorupę i zstąpmy do głębi»*
 
 ---
 
-### 7.8. **W**ielkie monologi Konradowskie (**t**ypowe dla dramatu romantycznego)
+### 7.8. Wielkie **m**onologi Konradowskie (**t**ypowe dla dramatu romantycznego)
 
 #### 7.8.1. Pieśń Zemsty
 1. Konrad (K) — zasępiony, blednieje i czerwienieje na zmianę, zdaje się być nieobecny, czyta przyszłość z gwiazd, bohater romantyczny: wyalienowany, niezrozumiany, wyjątkowy, buntownik; toczy się psychomachia o duszę Konrada;\
@@ -862,7 +862,7 @@ morał: natury nie wolno niszczyć
 
 ### 8.9. Tabakiera
 
-1. ~ Podkomorzego: ze złota i brylantów, przekazywana z rąk do rąk - ojciec Podkomorzego dostał ją od samego Króla Stanisława; stukanie w tabakierkę skupia uwagę szlachty; wizerunek Króla na dnie // patriotyzm
+1. ~ Podkomorzego: ze złota i brylantów, przekazywana z rąk do rąk — ojciec Podkomorzego dostał ją od samego Króla Stanisława; stukanie w tabakierkę skupia uwagę szlachty; wizerunek Króla na dnie // patriotyzm
 2. ~ Robaka:
    1. pochodzi z Częstochowy (Jasnej Góry); pozwala skupić uwagę szlachty na słowach Robaka: *«uciekł się do swojej tabakiery»*;
    2. sam Dąbrowski jej zażywał;
@@ -887,7 +887,7 @@ waśnie (spory łagodzone przez księdza /patriotyzm, pobożność)
 
 ### 8.11. Uczta
 
-1. hierarchia zasiadania - na najwyższym miejscu zasiada Podkomorzy kłaniając się wszystkim (polonez)
+1. hierarchia zasiadania — na najwyższym miejscu zasiada Podkomorzy kłaniając się wszystkim (polonez)
 2. modlitwa
 3. podanie wódki — gościnność
 4. jedzenie chołodźca litewskiego (tak samo jak w KI i KV — poprzez repetycję M pokazuje, że w Soplicowie zasiadanie do stołu również jest tradycją, panuje ład i harmonia)
@@ -929,7 +929,7 @@ Tadeusz: emocjonalny, chwiejny, łatwo ulega emocjom, spontaniczny, niedojrzały
 
 1. KI\
 zauroczenie Telimeną podczas uczty powitalnej\
-(przychodzi spóźniona - chciała zwrócić na siebie uwagę)\
+(przychodzi spóźniona — chciała zwrócić na siebie uwagę)\
 [próżna, kokieta, zalotna, przebiegła]
 
 2. KV\
@@ -998,7 +998,7 @@ przemarsz wojsk Napoleona w *„Panu Tadeusz”* miał miejsce na wiosnę, kiedy
 3. patriotyzm
 4. łączenie faktów prawdziwych z elementami fikcyjnymi
 
-### 8.17. Obraz społeczeństwa - szlachta (idealizacja)
+### 8.17. Obraz społeczeństwa — szlachta (idealizacja)
 
 1. patrioci, kultywowali tradycję
 2. przywiązani do staropolskiego stroju i herbu

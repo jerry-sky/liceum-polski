@@ -275,7 +275,7 @@
 ### 6.2. *„Zbytki polskie”*
 
 1. Potocki stosuje ironię
-2. utwór profetyczny - zapowiedź upadku Polski
+2. utwór profetyczny — zapowiedź upadku Polski
 3. Że te wszystkie ich pompy, wszystkie ich **splendece** (blask)\
    *«Pogasną jako w wodzie utopione świece»*
 
@@ -407,10 +407,10 @@ tl;dr: DK $=$ idealizm; Sancho $=$ realizm
 
 1. narrator: patriota, szlachcic, osoba starsza
 ### 9.4. Dominanta kompozycyjna: kontrast
-   1. przeszłość:
-      - pozytywnie
-      - panowały: cnota i prawda
-      - obowiązywało:
+1. przeszłość:
+    - pozytywnie
+    - panowały: cnota i prawda
+    - obowiązywało:
         - prawo
         - szacunek dla starszych
         - patriotyzm
@@ -419,24 +419,24 @@ tl;dr: DK $=$ idealizm; Sancho $=$ realizm
         - praworządność
         - pobożność
 
-    2. teraźniejszość
-       - negatywna
-       - panuje:
-         - nierząd
-         - anarchia
-         - rozpusta, zbytek
-         - księgi bezbożne
-         - pazerność, oszustwo
-         - dwulicowość
-         - psucie
-         - burzenie tego co wspólne
-         - prywata, skłonność do zbytku
-         - demoralizacja
+2. teraźniejszość
+    - negatywna
+    - panuje:
+        - nierząd
+        - anarchia
+        - rozpusta, zbytek
+        - księgi bezbożne
+        - pazerność, oszustwo
+        - dwulicowość
+        - psucie
+        - burzenie tego co wspólne
+        - prywata, skłonność do zbytku
+        - demoralizacja
 
-   3. anafora: Wolno szaleć młodzieży, wolno starym zwodzić // wzmocnienie negatywności teraźniejszości
-   4. przywołanie Rzymu: Rzym cnotliwy zwyciężał, Rzym występny zginął // pokazanie przykładu upadku mocarstwa działającego na takich samych złych podstawach, analogia
-   5. enumeracja: Wszędzie nierząd, rozpusta, występki szkaradne // wzmocnienie negatywności teraźniejszości
-   6. pytanie retoryczne: A mnie sarkać na takie bezprawia nie wolno?
+   1. anafora: Wolno szaleć młodzieży, wolno starym zwodzić // wzmocnienie negatywności teraźniejszości
+   2. przywołanie Rzymu: Rzym cnotliwy zwyciężał, Rzym występny zginął // pokazanie przykładu upadku mocarstwa działającego na takich samych złych podstawach, analogia
+   3. enumeracja: Wszędzie nierząd, rozpusta, występki szkaradne // wzmocnienie negatywności teraźniejszości
+   4. pytanie retoryczne: A mnie sarkać na takie bezprawia nie wolno?
 
 ### 9.5. Topos tonącego okrętu
 

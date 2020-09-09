@@ -610,13 +610,13 @@
 7. panuje bezprawie, niesprawiedliwość, brak swobód obywateli
 8. dla Makbeta władza to: ziszczenie ambicji, siła niszczycielska; dochodzi do władzy przez popełnienie wielu zbrodni // kontrast do Edypa
 9. Malcom: cnota jest skalana złem - *«Znamiona cnoty nosiła na czole, cnota zachować musi cnoty znamię»*
-10. chaos w świecie aksjologicznym - nie wiadomo co jest dobrem, a co złem
+10. chaos w świecie aksjologicznym — nie wiadomo co jest dobrem, a co złem
 
 ### 7.5. Upadek tyrana
 
 - życie $=$ cień przelotny, nędzny aktor, co przez swą godzinę na scenie świata pawi się i puszy i milknie potem; to opowiadana z krzykiem i furią powieść przez idiotę, nic nie znacząca — Makbet jeszcze wierzy w to, że to nie koniec
 - Makbet jest światem rozczarowany, rozgoryczony; stwierdza, że nic nie ma sensu — stracił sen swojego życia
-- poniósł klęskę - traci poczucie własnej egzystencji
+- poniósł klęskę — traci poczucie własnej egzystencji
 - człowiek sam musi wyznaczyć i odegrać swoją rolę, założyć maskę
 
 ### 7.6. Rola wiedźm
@@ -636,7 +636,7 @@
    1. działania bohatera zależą od jego wolnej woli, musi podjąć wybór pomiędzy dobrem, a złem
    2. ma świadomość, że zbrodnia pociągnie za sobą kolejne mordy (*«zły plan bezprawia»*)
    3. samotność, wyobcowanie bohatera
-   4. traci on poczucie własnej egzystencji (np.: Makbet postrzega świat jako teatr - zdaje sobie sprawę z przypadkowości ludzkiej egzystencji)
+   4. traci on poczucie własnej egzystencji (np.: Makbet postrzega świat jako teatr — zdaje sobie sprawę z przypadkowości ludzkiej egzystencji)
 
 ### 7.7. Rola natury
 

@@ -453,7 +453,7 @@ z kieszeni zmarłego Rzeckiego wysuwa się kartka z napisem
 1. klęska Wokulskiego — klęska ideałów romantycznych — idealistyczny sposób traktowania kobiety nie sprawdził się
 2. klęska ideałów Rzeckiego — nie doczekał ślubu Wokulskiego, nie doczekał objęcia tronu przez Napoleonidów, nigdy nie udało mu się wyjechać na wieś
 3. negatywny obraz społeczeństwa (obraz [biedoty](#102-biedota) i [arystokracji](#103-arystokracja))
-4. upadek ideałów pozytywistycznych (praca organiczna - brak współpracy - brak rozwoju gospodarczego, brak poprawy na Powiślu, brak współpracy w społeczeństwie) oraz romantycznych
+4. upadek ideałów pozytywistycznych (praca organiczna - brak współpracy — brak rozwoju gospodarczego, brak poprawy na Powiślu, brak współpracy w społeczeństwie) oraz romantycznych
 
 ---
 
@@ -461,7 +461,7 @@ z kieszeni zmarłego Rzeckiego wysuwa się kartka z napisem
 
 ### 19.1. Wokulski
 
-1. idealista miłości kobiety i sposobu ich traktowania - jest zapatrzony w Izabelę (miłość romantyczna); dla Wokulskiego tomik Mickiewiczowski jest jak księgi zbójeckie dla Pustelnika z Dziadów
+1. idealista miłości kobiety i sposobu ich traktowania — jest zapatrzony w Izabelę (miłość romantyczna); dla Wokulskiego tomik Mickiewiczowski jest jak księgi zbójeckie dla Pustelnika z Dziadów
 2. jako naukowiec — patrz [«jako pozytywista», podpunkt 5.](#93-jako-pozytywista)
 
 ### 19.2. Ochocki

@@ -21,9 +21,9 @@
     - [3.2. Styl gotycki](#32-styl-gotycki)
     - [3.3. Katedra gotycka jako tekst kultury](#33-katedra-gotycka-jako-tekst-kultury)
 - [4. Teatr średniowieczny](#4-teatr-średniowieczny)
-    - [4.1. Moralitet (*„Rozmowa Mistrza Polikarpa ze Śmiercią”*)](#41-moralitet-rozmowa-mistrza-polikarpa-ze-śmiercią)
+    - [4.1. Moralitet (np.: *„Rozmowa Mistrza Polikarpa ze Śmiercią”*)](#41-moralitet-np-rozmowa-mistrza-polikarpa-ze-śmiercią)
     - [4.2. Hymn (np.: *„Bogurodzica”*)](#42-hymn-np-bogurodzica)
-    - [4.3. Gesta (*„Pieśń o Rolandzie”*)](#43-gesta-pieśń-o-rolandzie)
+    - [4.3. Gesta (np.: *„Pieśń o Rolandzie”*)](#43-gesta-np-pieśń-o-rolandzie)
 - [5. Średniowiecze jako źródło naszej tożsamości](#5-średniowiecze-jako-źródło-naszej-tożsamości)
     - [5.1. Polskojęzyczne zabytki literatury świeckiej i sakralnej](#51-polskojęzyczne-zabytki-literatury-świeckiej-i-sakralnej)
         - [5.1.1. Świecka](#511-świecka)
@@ -52,8 +52,8 @@
     - [9.5. Motyw Stabat Mater Dolorosa [z łac. Matka Stale Cierpiąca]](#95-motyw-stabat-mater-dolorosa-z-łac-matka-stale-cierpiąca)
     - [9.6. Kreacja Matki Boskiej](#96-kreacja-matki-boskiej)
     - [9.7. utwór jest zaliczany do gatunku nazwanego Planktem](#97-utwór-jest-zaliczany-do-gatunku-nazwanego-planktem)
-- [10. Topos zielonej łąki jako przestrzeń metafizyczna - *„Dusza z ciała wyleciała”* XV w.](#10-topos-zielonej-łąki-jako-przestrzeń-metafizyczna---dusza-z-ciała-wyleciała-xv-w)
-- [11. *„Dzieje Tristana i Izoldy”* - miłość w czasach feudalnych](#11-dzieje-tristana-i-izoldy---miłość-w-czasach-feudalnych)
+- [10. Topos zielonej łąki jako przestrzeń metafizyczna — *„Dusza z ciała wyleciała”* XV w.](#10-topos-zielonej-łąki-jako-przestrzeń-metafizyczna--dusza-z-ciała-wyleciała-xv-w)
+- [11. *„Dzieje Tristana i Izoldy”* — miłość w czasach feudalnych](#11-dzieje-tristana-i-izoldy--miłość-w-czasach-feudalnych)
 - [12. Gramatyka — słowotwórstwo](#12-gramatyka--słowotwórstwo)
     - [12.1. Podstawa słowotwórcza](#121-podstawa-słowotwórcza)
     - [12.2. formant](#122-formant)
@@ -82,7 +82,7 @@
   - 1453 (Zdobycie Konstantynopola przez Turków)
   - 1517 (początek reformacji)
 ### 2.2. Etymologia
-— nazwa pochodzi z łaciny: "medium aevum" [wieki średnie]
+— nazwa pochodzi z łaciny: *«medium aevum»* [wieki średnie]
 
 ### 2.3. Podział czasowy
 
@@ -115,7 +115,7 @@
     - zależne od ciała emocje
     - niezależna od ciała wola
   - Tomizm zakłada wyższość władz poznawczych nad pożądawczymi
-6. przeznaczenie człowieka - poznanie najwyższego dobra (Boga)
+6. przeznaczenie człowieka — poznanie najwyższego dobra (Boga)
 7. GRADUALIZM: człowiek znajduje się na drabinie bytów między aniołami i zwierzętami
 
 #### 2.4.3. AUGUSTYNIZM
@@ -165,11 +165,11 @@
 
 ### 3.3. Katedra gotycka jako tekst kultury
 
-- strzelistość - dążenie do Boga, doskonałości
-- język geometrii - powszechny ład i harmonia, symetria
-- ogrom świątyni - wyższość katedry nad innymi budynkami
+- strzelistość — dążenie do Boga, doskonałości
+- język geometrii — powszechny ład i harmonia, symetria
+- ogrom świątyni — wyższość katedry nad innymi budynkami
 - plan krzyża, obrócone w stronę wschodnią (Jeruzalem)
-- symbolika liczb - katedra Notre Dame w Reims, Francja ma trzy portale — symbol Trójcy Świętej
+- symbolika liczb — katedra Notre Dame w Reims, Francja ma trzy portale — symbol Trójcy Świętej
 
 ---
 
@@ -177,10 +177,10 @@
 
 1. wywodzi się od teatru antycznego
 2. gatunki:
-   ### 4.1. Moralitet (*„Rozmowa Mistrza Polikarpa ze Śmiercią”*)
+   ### 4.1. Moralitet (np.: *„Rozmowa Mistrza Polikarpa ze Śmiercią”*)
       - poważno-komediowe przedstawienia
       - cel: ukazanie grzechów i błędów ludzkich → motywacja do poprawy
-      - everyman - człowiek o typowych dla danej grupy społecznej cech
+      - everyman — człowiek o typowych dla danej grupy społecznej cech
       - walka o duszę, **psychomachia**
 
    ### 4.2. Hymn (np.: *„Bogurodzica”*)
@@ -188,7 +188,7 @@
       - tematy religijne
       - patos
 
-   ### 4.3. Gesta (*„Pieśń o Rolandzie”*)
+   ### 4.3. Gesta (np.: *„Pieśń o Rolandzie”*)
       - pieśni o „czynie”
       - gatunek epiki rycerskiej
       - opowiadanie o sławnym wydarzeniu historycznym/ czynie rycerskim /sławy /postawie
@@ -277,7 +277,7 @@
    2. opisanie wydarzeń związanych z życiem świętego
    3. opis cudów towarzyszących życiu świętego
    4. męczeńska śmierć
-2. Legenda - czytanka [z łac. legse - czytać]
+2. Legenda - czytanka [z łac. *legse* - czytać]
 
 ---
 
@@ -386,7 +386,8 @@ zatem Boża Rodzicielka ma atrybuty boskości w roli **pośredniczki, opiekunki,
 ### 8.3. Motyw ikonograficzny deesis
 
 ![deesis](https://upload.wikimedia.org/wikipedia/commons/e/eb/Deesis.jpg)
-trójczęściowe obrazowanie osób świętych - Chrystus (na środku), Maryja (po lewej) oraz Jan Chrzciciel (po prawej); motyw związany z sądem ostatecznym, wyraża wiarę ludzi w Maryję i innych świętych, którzy proszą o łaskę Boga dla grzesznych
+
+— trójczęściowe obrazowanie osób świętych — Chrystus (na środku), Maryja (po lewej) oraz Jan Chrzciciel (po prawej); motyw związany z sądem ostatecznym, wyraża wiarę ludzi w Maryję i innych świętych, którzy proszą o łaskę Boga dla grzesznych
 
 1. Dlaczego Bogurodzica to hymn?
    - zawiera patos (podniosłość)
@@ -440,7 +441,7 @@ to cierpienie spowodowane śmiercią Syna. Jest to takie same cierpienie jak u z
 
 ---
 
-## 10. Topos zielonej łąki jako przestrzeń metafizyczna - *„Dusza z ciała wyleciała”* XV w.
+## 10. Topos zielonej łąki jako przestrzeń metafizyczna — *„Dusza z ciała wyleciała”* XV w.
 
 1. W Średniowieczu wykształciła się sztuka dobrego umierania\
    *ars bene moriendi*
@@ -449,11 +450,11 @@ to cierpienie spowodowane śmiercią Syna. Jest to takie same cierpienie jak u z
 
 3. stamtąd zabiera ją święty Piotr do Nieba jeśli człowiek postępował zgodnie z przykazaniami bożymi
 
-4. wniosek: trzeba być posłusznym Bogu *(duh :P)*
+4. wniosek: trzeba być posłusznym Bogu
 
 ---
 
-## 11. *„Dzieje Tristana i Izoldy”* - miłość w czasach feudalnych
+## 11. *„Dzieje Tristana i Izoldy”* — miłość w czasach feudalnych
 
 1. Ideał miłości dworskiej to ideał życia całkowicie podporządkowanego uczuciu; rycerz wybiera damę serca i podporządkowuje jej swoje życie
 

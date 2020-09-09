@@ -327,7 +327,7 @@ chce dokonać czegoś wielkiego (odzyskanie niepodległości)
 
 3. pragnienia są wielkie, ale nadal są tylko ideą: Poeta: Pieścimy się jeno snami
 
-4. POLACY MARZĄ O WIELKIM ZRYWIE, BUNCIE, KTÓREGO NIGDY NIE UCZYNIĄ
+4. **POLACY MARZĄ O WIELKIM ZRYWIE, BUNCIE, KTÓREGO NIGDY NIE UCZYNIĄ**
 
 5. brak zgody i porozumienia → klęska narodu;
 
@@ -479,7 +479,7 @@ ukazuje najważniejsze wartości dla chłopów (ziemia, praca, Bóg, religia)
 
 ### 4.1. *„Evviva L’arte!”*
 
-1. manifest dekadentów - p. lir. wypowiada się w imieniu wszystkich dekadentów
+1. manifest dekadentów — p. lir. wypowiada się w imieniu wszystkich dekadentów
 2. dekadenci:
    1. pesymiści: świat dąży do upadku; gardzą światem
    2. jedyna słuszna wartość: SZTUKA
