@@ -23,4 +23,6 @@ jobs:
             - uses: actions/checkout@v2
             # Runs the deployment script
             - name:
-              run: ./main.sh
+              run: |
+                npm install
+                ./main.sh
