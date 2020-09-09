@@ -20,9 +20,28 @@ jobs:
         # Steps represent a sequence of tasks that will be executed as part of the job
         steps:
             # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-            - uses: actions/checkout@v2
-            # Runs the deployment script
-            - name:
-              run: |
-                npm install
-                ./main.sh
+            - name: checkout master
+              uses: actions/checkout@v2
+            - name: checkout gh-pages to dist
+              uses: actions/checkout@v2
+              with:
+                path: dist
+                ref: gh-pages
+
+            - name: install npm dependencies
+              run: npm install
+
+            - name: run the rendering script
+              run: ./main.sh
+
+            - name: get current time
+              uses: gerred/actions/current-time@master
+              id: current-time
+
+            - name: push the changes
+              uses: EndBug/add-and-commit@v4.4.0
+              with:
+                message: "deployed on ${{ steps.current-time.outputs.time }}"
+                ref: 'gh-pages'
+                cwd: './dist/'
+                add: '*'
