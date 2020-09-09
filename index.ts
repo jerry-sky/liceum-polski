@@ -42,6 +42,9 @@ const result = md.render(raw)
 // add title
 console.log('<title>' + title.slice(2) + '</title>');
 
+// add Google AdSense
+console.log('<script data-ad-client="ca-pub-2446731554156720" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>');
+
 // add the standard meta tags
 console.log('<meta name="viewport" content="width=device-width, initial-scale=1.0">');
 console.log('<meta charset="utf-8">');
