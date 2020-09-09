@@ -27,15 +27,23 @@ const path = process.argv[2];
 // read the raw file
 const content = fs.readFileSync(path);
 
+const raw = content.toString();
+// extract the title from the beginning of the document
+const title = raw.split('\n', 2)[0];
+
 // render
-const result = md.render(content.toString())
+const result = md.render(raw)
     .replace(
         // replace every `.md` link file with `.html` link
         /(?<=\<a\s.{0,}href\=.+)(\.md)(?=(.{0}|(#.+))".{0,}\>)/gmis,
         '.html'
     );
 
+// add title
+console.log('<title>' + title.slice(2) + '</title>');
 
+// add the standard meta tags
+console.log('<meta name="viewport" content="width=device-width, initial-scale=1.0">');
 console.log('<meta charset="utf-8">');
 // add styles
 console.log('<link rel=stylesheet href="/styles.css"/>');
