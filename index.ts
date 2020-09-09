@@ -48,7 +48,8 @@ console.log('<script data-ad-client="ca-pub-2446731554156720" async src="https:/
 // add the standard meta tags
 console.log('<meta name="viewport" content="width=device-width, initial-scale=1.0">');
 console.log('<meta charset="utf-8">');
-// add styles
+// add styles and fonts
+console.log('<link href="https://fonts.googleapis.com/css2?family=Merriweather&display=swap" rel="stylesheet">');
 console.log('<link rel=stylesheet href="/styles.css"/>');
 
 // put the rendered content
