@@ -1,10 +1,9 @@
 <meta charset="utf-8">
 <link rel=stylesheet href="/styles.css"/>
 <h1 id="język-polski-w-liceum--notatki">Język polski w liceum — notatki</h1>
-<p><em>Please note: this repository concerns notes written in Polish and about Polish literature so the rest of this repository is in Polish as well.</em></p>
+<p><em>Please note: this repository concerns notes written in Polish and about Polish literature so most of this repository is in Polish.</em></p>
 <hr>
-<p>Niniejsze repozytorium zawiera notatki, które zostały sporządzone w ramach lekcji języka polskiego w <a href="https://liceum.pwr.edu.pl/">Akademickim Liceum Ogólnokształcącym Politechniki Wrocławskiej</a>.</p>
-<hr>
+<p>Niniejsze repozytorium zawiera część notatek, które zostały sporządzone w ramach lekcji języka polskiego w <a href="https://liceum.pwr.edu.pl/">Akademickim Liceum Ogólnokształcącym Politechniki Wrocławskiej</a>.</p>
 <h2 id="repetytorium">Repetytorium</h2>
 <ol>
 <li><a href="repetytorium/staro%C5%BCytno%C5%9B%C4%87.html">Starożytność + Style Wypowiedzi</a></li>
@@ -17,6 +16,23 @@
 <li>Międzywojnie — TBA</li>
 <li>WW2 — TBA</li>
 </ol>
+<hr>
+<p><em>Poniżej znajdują się pewne techniczne detale odnoszące się do tego w jaki sposób niniejsza strona internetowa działa.</em></p>
+<hr>
+<h2 id="website-deployment">Website Deployment</h2>
+<p>This repository uses TypeScript and Bash scripts for rendering Markdown documents into HTML documents, and GitHub Actions for deployment.</p>
+<p>To render the files first install necessary dependencies using</p>
+<pre><code class="language-bash">npm install
+</code></pre>
+<p>and then run</p>
+<pre><code class="language-bash">./main.sh
+</code></pre>
+<p>and the output files should appear in the <code>dist</code> directory.</p>
+<p>To serve the website locally you can use</p>
+<pre><code class="language-bash">python3 -m http.server
+</code></pre>
+<p>whilst being inside the <code>dist</code> directory.</p>
+<p><em>This website is hosted using <a href="https://pages.github.com">GitHub Pages</a>.</em></p>
 <hr>
 <p>©Jerry Sky a.k.a. jwroczynski</p>
 
