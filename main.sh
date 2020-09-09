@@ -1,12 +1,5 @@
 #!/bin/bash
 
-# prepare the output directory
-# rm -rf dist
-
-# copy the target branch
-# printf "\033[1m « Copying the \033[38;5;123m\`gh-pages\`\033[0;1m branch » \033[0m\n"
-# git clone -b gh-pages --single-branch --local . dist
-
 # render out the documents
 ## compile
 printf "\033[1m « Compiling \033[38;5;123mthe renderer\033[0;1m » \033[0m\n"
@@ -37,6 +30,7 @@ for doc in ./repetytorium/*; do
     fi
 done
 
+# remove the compiled script
 rm -f dist/index.js
 
 printf "\033[1m « Done » \033[0m\n"
