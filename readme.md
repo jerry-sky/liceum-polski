@@ -12,8 +12,6 @@ keywords: 'język, polski, liceum, literatura, kurs, literatury, pwr, alo, akade
 
 ---
 
-Niniejsze repozytorium zawiera część notatek, które zostały sporządzone w ramach lekcji języka polskiego w [Akademickim Liceum Ogólnokształcącym Politechniki Wrocławskiej](https://liceum.pwr.edu.pl/).
-
 ## Repetytorium
 
 1. [Starożytność + Style Wypowiedzi](repetytorium/starożytność.md)
