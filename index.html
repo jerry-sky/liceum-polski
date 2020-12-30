@@ -1,43 +1,53 @@
-<title>Język polski w liceum — notatki</title>
-<script data-ad-client="ca-pub-2446731554156720" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta charset="utf-8">
-<link href="https://fonts.googleapis.com/css2?family=Merriweather&display=swap" rel="stylesheet">
-<link rel=stylesheet href="/styles.css"/>
-<h1 id="język-polski-w-liceum--notatki">Język polski w liceum — notatki</h1>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="pl" xml:lang="pl">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <meta name="author" content="Jerry Sky" />
+  <meta name="keywords" content="język, polski, liceum, literatura, kurs, literatury, pwr, alo, akademickie, liceum, politechniki, wrocławskiej, Wrocław, Polska, Dolny Śląsk, dolnośląskie, notatki, notatka, repetytorium, starożytność, style wypowiedzi, średniowiecz, renesans, Kochanowski, Barok, Oświecenie, Preromantyzm, Romantyzm, Pozytywizm, Młoda Polska" />
+  <meta name="description" content="Niniejsze repozytorium zawiera część notatek, które zostały sporządzone w ramach lekcji języka polskiego w Akademickim Liceum Ogólnokształcącym Politechniki Wrocławskiej." />
+  <title>Język polski w liceum — notatki</title>
+  <style type="text/css">
+      code{white-space: pre-wrap;}
+      span.smallcaps{font-variant: small-caps;}
+      span.underline{text-decoration: underline;}
+      div.column{display: inline-block; vertical-align: top; width: 50%;}
+  </style>
+  <link rel="stylesheet" href="/style.css" />
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Merriweather&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@500&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.12.0/dist/katex.min.css" integrity="sha384-AfEj0r4/OFrOo5t7NnNe46zW/tFgW6x/bCJG8FqQCEo3+Aro6EYUG4+cU+KJWu/X" crossorigin="anonymous">
+</head>
+<body>
+<header id="title-block-header">
+<h1 class="title">Język polski w liceum — notatki</h1>
+<p class="author">
+    <span>by </span>
+    <span class="author">Jerry Sky</span>
+</p>
+</header>
+<p id="document-description"><em>Niniejsze repozytorium zawiera część notatek, które zostały sporządzone w ramach lekcji języka polskiego w <a href="https://liceum.pwr.edu.pl/">Akademickim Liceum Ogólnokształcącym Politechniki Wrocławskiej</a>.</em></p>
+<hr />
 <p><em>Please note: this repository concerns notes written in Polish and about Polish literature so most of this repository is in Polish.</em></p>
-<hr>
+<hr />
 <p>Niniejsze repozytorium zawiera część notatek, które zostały sporządzone w ramach lekcji języka polskiego w <a href="https://liceum.pwr.edu.pl/">Akademickim Liceum Ogólnokształcącym Politechniki Wrocławskiej</a>.</p>
 <h2 id="repetytorium">Repetytorium</h2>
-<ol>
-<li><a href="repetytorium/staro%C5%BCytno%C5%9B%C4%87.html">Starożytność + Style Wypowiedzi</a></li>
-<li><a href="repetytorium/%C5%9Bredniowiecze.html">Średniowiecze</a></li>
-<li><a href="repetytorium/renesans-kochanowski.html">Renesans, Kochanowski</a></li>
-<li><a href="repetytorium/barok-o%C5%9Bwiecenie-preromantyzm.html">Barok, Oświecenie, Preromantyzm</a></li>
-<li><a href="repetytorium/romantyzm.html">Romantyzm</a></li>
-<li><a href="repetytorium/pozytywizm.html">Pozytywizm</a></li>
-<li><a href="repetytorium/m%C5%82oda-polska.html">Młoda Polska</a></li>
+<ol type="1">
+<li><a href="repetytorium/starożytność">Starożytność + Style Wypowiedzi</a></li>
+<li><a href="repetytorium/średniowiecze">Średniowiecze</a></li>
+<li><a href="repetytorium/renesans-kochanowski">Renesans, Kochanowski</a></li>
+<li><a href="repetytorium/barok-oświecenie-preromantyzm">Barok, Oświecenie, Preromantyzm</a></li>
+<li><a href="repetytorium/romantyzm">Romantyzm</a></li>
+<li><a href="repetytorium/pozytywizm">Pozytywizm</a></li>
+<li><a href="repetytorium/młoda-polska">Młoda Polska</a></li>
 <li>Międzywojnie — TBA</li>
 <li>WW2 — TBA</li>
 </ol>
-<hr>
-<p><em>Poniżej znajdują się pewne techniczne detale odnoszące się do tego w jaki sposób niniejsza strona internetowa działa.</em></p>
-<hr>
-<h2 id="website-deployment">Website Deployment</h2>
-<p>This repository uses TypeScript and Bash scripts for rendering Markdown documents into HTML documents, and GitHub Actions for deployment.</p>
-<p>To render the files first install necessary dependencies using</p>
-<pre><code class="language-bash">npm install
-</code></pre>
-<p>and then run</p>
-<pre><code class="language-bash">./main.sh
-</code></pre>
-<p>and the output files should appear in the <code>dist</code> directory.</p>
-<p>To serve the website locally you can use</p>
-<pre><code class="language-bash">python3 -m http.server
-</code></pre>
-<p>whilst being inside the <code>dist</code> directory.</p>
-<p><em>This website is hosted using <a href="https://pages.github.com">GitHub Pages</a>.</em></p>
-<hr>
+<hr />
 <p>©Jerry Sky a.k.a. jwroczynski</p>
-
-<script type="text/javascript" id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+<hr />
+</body>
+</html>
