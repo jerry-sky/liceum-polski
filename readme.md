@@ -20,32 +20,6 @@ Niniejsze repozytorium zawiera część notatek, które zostały sporządzone w 
 
 ---
 
-*Poniżej znajdują się pewne techniczne detale odnoszące się do tego w jaki sposób niniejsza strona internetowa działa.*
-
----
-
-## Website Deployment
-
-This repository uses TypeScript and Bash scripts for rendering Markdown documents into HTML documents, and GitHub Actions for deployment.
-
-To render the files first install necessary dependencies using
-```bash
-npm install
-```
-and then run
-```bash
-./main.sh
-```
-and the output files should appear in the `dist` directory.
-
-To serve the website locally you can use
-```bash
-python3 -m http.server
-```
-whilst being inside the `dist` directory.
-
-*This website is hosted using [GitHub Pages](https://pages.github.com).*
-
----
-
 ©Jerry Sky a.k.a. jwroczynski
+
+---

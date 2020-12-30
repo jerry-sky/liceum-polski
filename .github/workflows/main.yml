@@ -1,47 +1,40 @@
-# This is a basic workflow to help you get started with Actions
+# This workflow renders all the Markdown notes into a HTML website.
 
-name: CI
+name: 'Build the website'
 
-# Controls when the action will run. Triggers the workflow on push or pull request
-# events but only for the master branch
 on:
-    push:
-        branches: [master]
-    pull_request:
-        branches: [master]
+  push:
+    branches: [master]
 
-# A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
-    # This workflow contains a single job called "build"
-    build:
-        # The type of runner that the job will run on
-        runs-on: ubuntu-latest
+  build:
+    runs-on: ubuntu-latest
 
-        # Steps represent a sequence of tasks that will be executed as part of the job
-        steps:
-            # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-            - name: checkout master
-              uses: actions/checkout@v2
-            - name: checkout gh-pages to dist
-              uses: actions/checkout@v2
-              with:
-                path: dist
-                ref: gh-pages
+    steps:
+      - name: 'Checkout `master`'
+        uses: actions/checkout@v2
 
-            - name: install npm dependencies
-              run: npm install
+      - name: 'Checkout `gh-pages` into a separate directory'
+        uses: actions/checkout@v2
+        with:
+          path: 'dist'
+          ref: 'gh-pages'
 
-            - name: run the rendering script
-              run: ./main.sh
+      - name: 'Remove all references to the private part of this repository'
+        shell: bash
+        run: perl -i -pe 's/^.*\(Ω\).*$//gmi' "readme.md"
 
-            - name: get current time
-              uses: gerred/actions/current-time@master
-              id: current-time
+      - name: 'Render the website'
+        uses: 'jerry-sky/vyrow@v0.5'
 
-            - name: push the changes
-              uses: EndBug/add-and-commit@v4.4.0
-              with:
-                message: "deployed on ${{ steps.current-time.outputs.time }}"
-                ref: 'gh-pages'
-                cwd: './dist/'
-                add: '*'
+      - name: 'Get current time'
+        uses: gerred/actions/current-time@master
+        id: current-time
+
+      - name: push the changes
+        uses: EndBug/add-and-commit@v4.4.0
+        with:
+          message: "deployed on ${{ steps.current-time.outputs.time }}"
+          ref: 'gh-pages'
+          cwd: './dist/'
+          add: '*'
