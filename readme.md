@@ -1,4 +1,12 @@
-# Język polski w liceum — notatki
+---
+lang: 'pl'
+title: 'Język polski w liceum — notatki'
+author: 'Jerry Sky'
+description: 'Niniejsze repozytorium zawiera część notatek, które zostały sporządzone w ramach lekcji języka polskiego w [Akademickim Liceum Ogólnokształcącym Politechniki Wrocławskiej](https://liceum.pwr.edu.pl/).'
+keywords: 'język, polski, liceum, literatura, kurs, literatury, pwr, alo, akademickie, liceum, politechniki, wrocławskiej, Wrocław, Polska, Dolny Śląsk, dolnośląskie, notatki, notatka, repetytorium, starożytność, style wypowiedzi, średniowiecz, renesans, Kochanowski, Barok, Oświecenie, Preromantyzm, Romantyzm, Pozytywizm, Młoda Polska'
+---
+
+---
 
 *Please note: this repository concerns notes written in Polish and about Polish literature so most of this repository is in Polish.*
 

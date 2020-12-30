@@ -1,10 +1,14 @@
-# Średniowiecze
-
-*Repetytorium nr 2. — „FASCYNUJĄCY JĘZYK POLSKI” (Sprawdzian nr 3.)*
+---
+lang: 'pl'
+title: 'Średniowiecze'
+author: 'Jerry Sky'
+description: 'Repetytorium nr 2. — „FASCYNUJĄCY JĘZYK POLSKI” (Sprawdzian nr 3.)'
+keywords: 'średniowiecze, polski, repetytorium, styl, gotycki, romański, etymologia, ramy czasowe, epoka, hymn, gesta, moralitet, zabytki, zabytek, literatura, świecka, sakralna, Bogurodzica, Topos, słowotwórstwo'
+---
 
 ---
 
-**Spis treści**
+**Spis treści:**
 
 - [1. Appendix — pojęcia](#1-appendix--pojęcia)
 - [2. Epoka](#2-epoka)

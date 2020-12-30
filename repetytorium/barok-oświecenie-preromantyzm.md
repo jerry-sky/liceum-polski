@@ -1,10 +1,14 @@
-# Barok, Oświecenie, Preromantyzm
-
-*Repetytorium nr 4. — „EMOCJONUJĄCY JĘZYK POLSKI” (Sprawdzian nr 6.)*
+---
+lang: 'pl'
+title: 'Barok, Oświecenie, Preromantyzm'
+author: 'Jerry Sky'
+description: 'Repetytorium nr 4. — „EMOCJONUJĄCY JĘZYK POLSKI” (Sprawdzian nr 6.)'
+keywords: 'barok, oświecenie, preromantyzm, repetytorium, polski, sonet, konwencja, literacka, pojęcia, Szarzyński, Sęp, Mikołaj, Morsztyn, poezja konceptualna, sarmatyzm, polska, krytyka, sarmatyzmu, Pamiętniki, Paska, Chryzostoma, Satyry, Krasickiego, Sentymentalizm, burza i napór, okres, ramy czasowe'
+---
 
 ---
 
-**Spis treści**
+**Spis treści:**
 
 - [1. Appendix — Pojęcia:](#1-appendix--pojęcia)
     - [1.1. Sonet (konwencja literacka)](#11-sonet-konwencja-literacka)

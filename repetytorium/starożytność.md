@@ -1,10 +1,14 @@
-# Starożytność + Style Wypowiedzi
-
-*Repetytorium nr 1. — „UKOCHANY JĘZYK POLSKI” (Sprawdzian nr 2.)*
+---
+lang: 'pl'
+title: 'Starożytność + Style Wypowiedzi'
+author: 'Jerry Sky'
+description: 'Repetytorium nr 1. — „UKOCHANY JĘZYK POLSKI” (Sprawdzian nr 2.)'
+keywords: 'starożytność, style wypowiedzi, polski, repetytorium, retoryczny, potoczny, naukowy, urzędowo-kancelaryjny, artystyczny, publicystyczny, topos, archetyp, Prometeusz, Čapek, Labirynt, Kubiak, eseje, tragedia, grecka, teatr, Uczta Platona, rola literatury, Wieża, Kazik, Grudziński'
+---
 
 ---
 
-**Spis treści**
+**Spis treści:**
 
 - [1. Style wypowiedzi](#1-style-wypowiedzi)
     - [1.1. Styl potoczny](#11-styl-potoczny)

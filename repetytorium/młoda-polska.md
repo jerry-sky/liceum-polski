@@ -1,10 +1,14 @@
-# Młoda Polska
-
-*Repetytorium nr 7. (Sprawdzian nr 10.)*
+---
+lang: 'pl'
+title: 'Młoda Polska'
+author: 'Jerry Sky'
+description: 'Repetytorium nr 7. (Sprawdzian nr 10.)'
+keywords: 'Młoda Polska, polski, repetytorium, sprawdzian, Boy-Żeleński, Wesele, kompozycja, Wyspiański, gwara, style, dialektyzacja, Chłopi, Ludzie Bezdomni, Żeromski'
+---
 
 ---
 
-**Spis treści**
+**Spis treści:**
 
 - [1. Style + gwara + dialektyzacja](#1-style--gwara--dialektyzacja)
 - [2. *„Wesele”* — Stanisław Wyspiański](#2-wesele--stanisław-wyspiański)

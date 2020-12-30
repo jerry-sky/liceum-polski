@@ -1,10 +1,14 @@
-# Renesans, Kochanowski
-
-*Repetytorium nr 3. — „FRAPUJĄCY JĘZYK POLSKI” (Sprawdzian nr 5.)*
+---
+lang: 'pl'
+title: 'Renesans, Kochanowski'
+author: 'Jerry Sky'
+description: 'Repetytorium nr 3. — „FRAPUJĄCY JĘZYK POLSKI” (Sprawdzian nr 5.)'
+keywords: 'renesans, Kochanowski, repetytorium, polski, ramy czasowe, Horacy, Oda, Ody, wzorce, parenetyczne, humanizm, szlachcic ziemianin, reformacja, chrześcijański, pieśni, Kochanowskiego, fraszki, fraszka, Makbet, teatr, elżbietański, dramat, Shakespeare, Szekspir'
+---
 
 ---
 
-**Spis treści**
+**Spis treści:**
 
 - [1. Wprowadzenie i periodyzacja](#1-wprowadzenie-i-periodyzacja)
     - [1.1. Renesans powstaje we Florencji, we Włoszech XIV w.](#11-renesans-powstaje-we-florencji-we-włoszech-xiv-w)

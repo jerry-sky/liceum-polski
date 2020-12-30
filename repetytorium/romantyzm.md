@@ -1,10 +1,14 @@
-# Romantyzm
-
-*Repetytorium nr 5. — „ROMANTYCZNY JĘZYK POLSKI” (Sprawdzian nr 7.)*
+---
+lang: 'pl'
+title: 'Romantyzm'
+author: 'Jerry Sky'
+description: 'Repetytorium nr 5. — „ROMANTYCZNY JĘZYK POLSKI” (Sprawdzian nr 7.)'
+keywords: 'Romantyzm, repetytorium, polski, ballady, romanse, epistemologia, orientalizm, pojęcia, prawdy ludowe, Świteź, Świtezianka, Dziadów, Mickiewicz, Pan Tadeusz, Słowacki, Kordian, Konrad, Norwid, poezja'
+---
 
 ---
 
-**Spis treści**
+**Spis treści:**
 
 - [1. Appendix](#1-appendix)
     - [1.1. epistemologia](#11-epistemologia)

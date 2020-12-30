@@ -1,10 +1,14 @@
-# Pozytywizm
-
-*Repetytorium nr 6. (Sprawdzian nr 9.)*
+---
+lang: 'pl'
+title: 'Pozytywizm'
+author: 'Jerry Sky'
+description: 'Repetytorium nr 6. (Sprawdzian nr 9.)'
+keywords: 'Pozytywizm, repetytorium, polski, nurty, pojęcia, poglądy, teorie, Taine, Spencer, Comte, praca u podstaw, praktycyzm, urbanizm, monizm, Lalka, Rzecki, Izabela, Łęcka, non omnis moriar, darwinizm, idealiści, Wokulski'
+---
 
 ---
 
-**Spis treści**
+**Spis treści:**
 
 - [1. Ramy Czasowe](#1-ramy-czasowe)
 - [2. Nurty, pojęcia, poglądy, teorie](#2-nurty-pojęcia-poglądy-teorie)
